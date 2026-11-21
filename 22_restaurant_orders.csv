@@ -1,0 +1,1117 @@
+Order_ID,Customer_ID,Item,Item_Quantity,Item_Price,Category,Order_Type,Order_DateTime
+O00337,C0050,Brownie,1.0,110.0,Desserts,Takeaway,2026-02-15 07:36:00
+O00332,C0148,Biryani,1.0,220.0,Main Course,Takeaway,2026-02-06 18:29:00
+O00368,C0235,Pasta,2.0,180.0,Main Course,Takeaway,2026-03-07 12:40:00
+O00051,C0213,French Fries,1.0,80.0,Snacks,Takeaway,2026-03-26 17:14:00
+O00003,C0161,Pizza,1.0,250.0,Fast Food,Delivery,2026-01-10 16:22:00
+O00047,C0133,Lemonade,2.0,60.0,Beverages,Takeaway,2026-01-09 21:44:00
+O00326,C0155,Burger,2.0,120.0,Fast Food,Delivery,2026-03-25 18:30:00
+O00039,C0100,Ice Cream,1.0,90.0,Desserts,Takeaway,2026-02-23 07:28:00
+O00018,C0250,Brownie,1.0,110.0,Desserts,Dine-in,2026-02-07 07:00:00
+O00132,C0165,Pasta,2.0,180.0,Main Course,Delivery,2026-02-22 16:04:00
+O00201,C0250,French Fries,1.0,80.0,Snacks,Dine-in,2026-03-28 13:36:00
+O00098,C0229,Paneer Rice Bowl,1.0,190.0,Main Course,Takeaway,2026-01-04 19:39:00
+O00358,C0127,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-02-06 10:22:00
+O00245,C0090,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-02-06 13:48:00
+O00213,C0214,French Fries,1.0,80.0,Snacks,Takeaway,2026-01-24 20:16:00
+O00157,C0168,Lemonade,2.0,60.0,Beverages,Takeaway,2026-02-08 20:03:00
+O00182,C0142,Sandwich,1.0,100.0,Snacks,Dine-in,2026-03-19 10:31:00
+O00065,C0105,Garlic Bread,3.0,90.0,Snacks,Delivery,2026-01-06 08:23:00
+O00128,C0206,Sandwich,1.0,100.0,Snacks,Takeaway,2026-02-06 22:34:00
+O00321,C0195,Pasta,1.0,180.0,Main Course,Delivery,2026-02-18 15:46:00
+O00387,C0125,Ice Cream,1.0,90.0,Desserts,Takeaway,2026-03-31 09:25:00
+O00160,C0038,Burger,1.0,120.0,Fast Food,Dine-in,2026-03-27 21:34:00
+O00356,C0168,Pasta,1.0,180.0,Main Course,Dine-in,2026-02-08 23:44:00
+O00127,C0159,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-03-22 14:43:00
+O00087,C0006,French Fries,2.0,80.0,Snacks,Dine-in,2026-03-25 09:14:00
+O00232,C0220,Cold Drink,2.0,50.0,Beverages,Takeaway,2026-01-05 21:19:00
+O00032,C0112,Cold Drink,2.0,50.0,Beverages,Delivery,2026-03-06 15:56:00
+O00374,C0033,Pizza,2.0,250.0,Fast Food,Dine-in,2026-03-28 07:50:00
+O00328,C0048,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-03-24 21:04:00
+O00105,C0172,Cheese Burger,4.0,160.0,Fast Food,Delivery,2026-03-10 12:00:00
+O00405,C0051,Pasta,1.0,180.0,Main Course,Dine-in,2026-02-16 16:10:00
+O00093,C0094,Burger,1.0,120.0,Fast Food,Dine-in,2026-03-29 14:44:00
+O00246,C0110,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-02-14 08:22:00
+O00168,C0028,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-01-17 10:25:00
+O00177,C0226,Burger,2.0,120.0,Fast Food,Dine-in,2026-01-15 19:23:00
+O00419,C0063,Biryani,3.0,220.0,Main Course,Delivery,2026-01-22 23:38:00
+O00238,C0220,Garlic Bread,2.0,90.0,Snacks,Takeaway,2026-03-30 13:07:00
+O00126,C0239,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-01-26 09:13:00
+O00419,C0063,Lemonade,1.0,60.0,Beverages,Delivery,2026-01-22 23:38:00
+O00224,C0110,Garlic Bread,1.0,90.0,Snacks,Dine-in,2026-03-13 20:54:00
+O00351,C0218,Burger,1.0,120.0,Fast Food,Dine-in,2026-01-21 20:13:00
+O00345,C0056,Garlic Bread,3.0,90.0,Snacks,Delivery,2026-03-05 08:56:00
+O00200,C0136,Biryani,2.0,220.0,Main Course,Delivery,2026-03-20 13:51:00
+O00232,C0220,Pizza,2.0,250.0,Fast Food,Takeaway,2026-01-05 21:19:00
+O00050,C0194,Pasta,1.0,180.0,Main Course,Dine-in,2026-01-05 08:23:00
+O00037,C0146,Burger,1.0,120.0,Fast Food,Delivery,2026-01-02 18:08:00
+O00327,C0146,Brownie,1.0,110.0,Desserts,Dine-in,2026-02-21 13:31:00
+O00287,C0137,Sandwich,1.0,100.0,Snacks,Delivery,2026-02-14 18:45:00
+O00400,C0196,Sandwich,2.0,100.0,Snacks,Delivery,2026-02-13 13:55:00
+O00175,C0208,Pizza,1.0,250.0,Fast Food,Dine-in,2026-03-16 16:50:00
+O00253,C0017,Pizza,1.0,250.0,Fast Food,Dine-in,2026-02-26 18:02:00
+O00316,C0124,Cheese Burger,2.0,160.0,Fast Food,Delivery,2026-02-18 17:25:00
+O00169,C0165,Margherita Pizza,2.0,220.0,Fast Food,Dine-in,2026-03-15 08:37:00
+O00096,C0184,Brownie,,110.0,Desserts,Dine-in,2026-02-12 21:31:00
+O00290,C0163,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-03-04 13:41:00
+O00311,C0043,Sandwich,1.0,100.0,Snacks,Takeaway,2026-03-25 23:11:00
+O00022,C0014,Coffee,1.0,80.0,Beverages,Dine-in,2026-03-12 19:04:00
+O00055,C0024,Coffee,1.0,80.0,Beverages,Delivery,2026-03-19 22:16:00
+O00067,C0140,French Fries,1.0,80.0,Snacks,Delivery,2026-03-21 20:57:00
+O00228,C0128,Sandwich,2.0,100.0,Snacks,Delivery,2026-03-10 16:52:00
+O00207,C0022,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-01-18 10:37:00
+O00046,C0039,Brownie,1.0,110.0,Desserts,Dine-in,2026-01-28 17:53:00
+O00199,C0187,Pizza,2.0,250.0,Fast Food,Takeaway,2026-03-05 23:56:00
+O00161,C0037,Lemonade,3.0,60.0,Beverages,Delivery,2026-01-15 10:27:00
+O00048,C0066,Coffee,1.0,80.0,Beverages,Delivery,2026-01-22 18:56:00
+O00061,C0221,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-01-28 10:11:00
+O00336,C0031,Garlic Bread,1.0,90.0,Snacks,Takeaway,2026-01-01 14:27:00
+O00107,C0230,Sandwich,1.0,100.0,Snacks,Takeaway,2026-01-18 08:29:00
+O00117,C0250,Biryani,2.0,220.0,Main Course,Takeaway,2026-02-15 21:01:00
+O00066,C0072,Coffee,1.0,80.0,Beverages,Dine-in,2026-02-10 11:52:00
+O00414,C0188,Sandwich,1.0,100.0,Snacks,Takeaway,2026-03-21 19:18:00
+O00187,C0155,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-03-31 14:06:00
+O00143,C0097,Paneer Rice Bowl,2.0,190.0,Main Course,Takeaway,2026-02-20 16:26:00
+O00049,C0186,Burger,1.0,120.0,Fast Food,Dine-in,2026-01-26 09:53:00
+O00131,C0135,Cold Drink,2.0,50.0,Beverages,Dine-in,2026-01-30 07:06:00
+O00051,C0213,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-03-26 17:14:00
+O00260,C0134,French Fries,4.0,80.0,Snacks,Delivery,2026-02-01 17:28:00
+O00005,C0011,Cheese Burger,1.0,160.0,Fast Food,Takeaway,2026-03-19 13:43:00
+O00274,C0073,Lemonade,4.0,60.0,Beverages,Takeaway,2026-02-23 08:06:00
+O00211,C0070,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-03-08 22:40:00
+O00169,C0165,Ice Cream,2.0,90.0,Desserts,Dine-in,2026-03-15 08:37:00
+O00122,C0203,French Fries,1.0,80.0,Snacks,Takeaway,2026-03-26 21:31:00
+O00407,C0242,Ice Cream,1.0,90.0,Desserts,Takeaway,2026-01-15 18:47:00
+O00139,C0240,Sandwich,2.0,100.0,Snacks,Dine-in,2026-03-31 18:14:00
+O00138,C0068,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-02-26 16:30:00
+O00083,C0246,Sandwich,1.0,100.0,Snacks,Takeaway,2026-03-01 07:06:00
+O00098,C0229,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-01-04 19:39:00
+O00266,C0166,Lemonade,1.0,60.0,Beverages,Dine-in,2026-03-29 13:04:00
+O00255,C0006,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-03-10 09:06:00
+O00053,C0008,Brownie,1.0,110.0,Desserts,Delivery,2026-02-22 12:28:00
+O00251,C0109,Ice Cream,2.0,90.0,Desserts,Delivery,2026-02-02 07:41:00
+O00059,C0096,Coffee,1.0,80.0,Beverages,Dine-in,2026-03-02 22:59:00
+O00281,C0225,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-03-25 18:25:00
+O00367,C0234,Coffee,4.0,80.0,Beverages,Takeaway,2026-01-11 12:40:00
+O00053,C0008,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-02-22 12:28:00
+O00417,C0220,Pizza,2.0,250.0,Fast Food,Delivery,2026-01-02 08:12:00
+O00130,C0102,French Fries,2.0,80.0,Snacks,Dine-in,2026-02-16 07:20:00
+O00270,C0095,Cheese Burger,2.0,160.0,Fast Food,Delivery,2026-01-04 14:02:00
+O00334,C0029,French Fries,1.0,80.0,Snacks,Takeaway,2026-01-11 12:01:00
+O00170,C0100,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-03-13 09:54:00
+O00254,C0024,French Fries,1.0,80.0,Snacks,Takeaway,2026-02-08 13:06:00
+O00259,C0030,French Fries,1.0,80.0,Snacks,Dine-in,2026-01-04 18:11:00
+O00002,C0213,Pasta,2.0,180.0,Main Course,Takeaway,2026-01-15 17:31:00
+O00291,C0019,Biryani,1.0,220.0,Main Course,Dine-in,2026-02-08 16:52:00
+O00371,C0127,Biryani,2.0,220.0,Main Course,Dine-in,2026-03-22 08:38:00
+O00052,C0196,Paneer Rice Bowl,2.0,190.0,Main Course,Takeaway,2026-03-25 20:19:00
+O00149,C0069,Biryani,2.0,220.0,Main Course,Delivery,2026-03-09 17:39:00
+O00026,C0058,Margherita Pizza,1.0,,Fast Food,Dine-in,2026-03-13 07:22:00
+O00166,C0130,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-02-12 20:45:00
+O00215,C0226,Biryani,1.0,220.0,Main Course,Dine-in,2026-01-06 09:55:00
+O00220,C0007,French Fries,2.0,80.0,Snacks,Takeaway,2026-01-13 08:01:00
+O00377,C0054,Paneer Rice Bowl,2.0,190.0,Main Course,Dine-in,2026-01-06 10:21:00
+O00127,C0159,Biryani,1.0,220.0,Main Course,Takeaway,2026-03-22 14:43:00
+O00162,C0134,Biryani,2.0,220.0,Main Course,Dine-in,2026-03-03 15:51:00
+O00332,C0148,Burger,2.0,120.0,Fast Food,Takeaway,2026-02-06 18:29:00
+O00387,C0125,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-03-31 09:25:00
+O00313,C0153,Coffee,1.0,80.0,Beverages,Delivery,2026-01-01 07:38:00
+O00328,C0048,Pizza,2.0,250.0,Fast Food,Delivery,2026-03-24 21:04:00
+O00089,C0240,Lemonade,1.0,60.0,Beverages,Takeaway,2026-01-12 09:55:00
+O00134,C0107,Biryani,1.0,220.0,Main Course,Dine-in,2026-02-12 14:38:00
+O00068,C0054,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-03-22 20:57:00
+O00112,C0072,Margherita Pizza,2.0,220.0,Fast Food,Delivery,2026-01-12 07:04:00
+O00278,C0143,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-03-05 12:10:00
+O00054,C0024,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-01-16 12:36:00
+O00058,C0197,Cold Drink,3.0,50.0,Beverages,Takeaway,2026-02-28 21:24:00
+O00348,C0214,Biryani,1.0,220.0,Main Course,Delivery,2026-02-13 13:49:00
+O00086,C0093,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-01-18 14:02:00
+O00123,C0247,French Fries,2.0,80.0,Snacks,Delivery,2026-01-31 22:19:00
+O00036,C0196,Pizza,3.0,250.0,Fast Food,Delivery,2026-01-05 22:48:00
+O00196,C0159,French Fries,2.0,80.0,Snacks,Delivery,2026-03-23 13:25:00
+O00254,C0024,Burger,2.0,120.0,Fast Food,Takeaway,2026-02-08 13:06:00
+O00241,C0057,Garlic Bread,1.0,90.0,Snacks,Takeaway,2026-01-13 20:38:00
+O00130,C0102,Coffee,1.0,80.0,Beverages,Dine-in,2026-02-16 07:20:00
+O00072,C0017,Garlic Bread,2.0,90.0,Snacks,Takeaway,2026-02-24 15:55:00
+O00387,C0125,Brownie,3.0,110.0,Desserts,Takeaway,2026-03-31 09:25:00
+O00365,C0095,Cheese Burger,2.0,160.0,Fast Food,Dine-in,2026-01-24 12:33:00
+O00264,C0037,Pizza,1.0,250.0,Fast Food,Delivery,2026-02-07 08:31:00
+O00334,C0029,Cheese Burger,1.0,160.0,Fast Food,Takeaway,2026-01-11 12:01:00
+O00264,C0037,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-02-07 08:31:00
+O00391,C0014,Brownie,1.0,110.0,Desserts,Delivery,2026-01-05 07:13:00
+O00116,C0037,Biryani,1.0,220.0,Main Course,Dine-in,2026-03-15 16:44:00
+O00344,C0193,Biryani,1.0,220.0,Main Course,Takeaway,2026-02-07 20:18:00
+O00115,C0106,Garlic Bread,2.0,90.0,Snacks,Delivery,2026-02-16 11:30:00
+O00080,C0032,Garlic Bread,3.0,90.0,Snacks,Takeaway,2026-03-25 07:48:00
+O00378,C0230,Coffee,4.0,80.0,Beverages,Dine-in,2026-03-28 15:18:00
+O00145,C0149,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-03-08 13:36:00
+O00400,C0196,Pizza,1.0,250.0,Fast Food,Delivery,2026-02-13 13:55:00
+O00049,C0186,Biryani,1.0,220.0,Main Course,Dine-in,2026-01-26 09:53:00
+O00214,C0119,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-02-15 22:29:00
+O00078,C0008,Cold Drink,2.0,50.0,Beverages,Delivery,2026-03-30 09:34:00
+O00064,C0209,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-01-06 11:36:00
+O00053,C0008,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-02-22 12:28:00
+O00204,C0043,Sandwich,1.0,100.0,Snacks,Dine-in,2026-03-15 17:44:00
+O00361,C0186,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-01-10 17:28:00
+O00224,C0110,Coffee,2.0,80.0,Beverages,Dine-in,2026-03-13 20:54:00
+O00386,C0200,Coffee,1.0,80.0,Beverages,Takeaway,2026-02-18 13:33:00
+O00164,C0241,Burger,1.0,120.0,Fast Food,Delivery,2026-02-28 08:10:00
+O00120,C0228,French Fries,2.0,80.0,Snacks,Dine-in,2026-03-16 23:19:00
+O00020,C0038,Burger,2.0,120.0,Fast Food,Dine-in,2026-02-24 22:27:00
+O00007,C0127,French Fries,1.0,80.0,Snacks,Delivery,2026-02-14 22:51:00
+O00011,C0084,Pasta,2.0,180.0,Main Course,Dine-in,2026-03-24 22:06:00
+O00139,C0240,Garlic Bread,1.0,90.0,Snacks,Dine-in,2026-03-31 18:14:00
+O00413,C0164,Garlic Bread,1.0,90.0,Snacks,Dine-in,2026-02-10 08:16:00
+O00171,C0134,Pasta,1.0,180.0,Main Course,Delivery,2026-03-15 12:18:00
+O00028,C0144,Pizza,1.0,250.0,Fast Food,Takeaway,2026-03-06 07:33:00
+O00062,C0040,Ice Cream,2.0,90.0,Desserts,Dine-in,2026-01-07 07:03:00
+O00333,C0118,Cold Drink,1.0,50.0,Beverages,Delivery,2026-03-09 21:23:00
+O00336,C0031,Pasta,2.0,180.0,Main Course,Takeaway,2026-01-01 14:27:00
+O00226,C0217,Brownie,1.0,110.0,Desserts,Dine-in,2026-03-28 10:51:00
+O00319,C0135,Garlic Bread,1.0,90.0,Snacks,Takeaway,2026-03-05 23:14:00
+O00271,C0137,Pasta,1.0,180.0,Main Course,Takeaway,2026-02-01 21:41:00
+O00375,C0149,Coffee,2.0,80.0,Beverages,Dine-in,2026-03-28 09:13:00
+O00240,C0238,Pizza,1.0,250.0,Fast Food,Takeaway,2026-02-18 08:42:00
+O00306,C0215,Pasta,1.0,180.0,Main Course,Takeaway,2026-01-12 08:25:00
+O00232,C0220,Margherita Pizza,2.0,220.0,Fast Food,Takeaway,2026-01-05 21:19:00
+O00339,C0238,Pizza,1.0,250.0,Fast Food,Dine-in,2026-02-28 09:19:00
+O00336,C0031,Brownie,1.0,110.0,Desserts,Takeaway,2026-01-01 14:27:00
+O00342,C0075,Pizza,1.0,250.0,Fast Food,Dine-in,2026-01-29 12:16:00
+O00338,C0179,French Fries,1.0,80.0,Snacks,Dine-in,2026-03-17 14:31:00
+O00022,C0014,Sandwich,3.0,100.0,Snacks,Dine-in,2026-03-12 19:04:00
+O00328,C0048,Biryani,2.0,220.0,Main Course,Delivery,2026-03-24 21:04:00
+O00023,C0210,Lemonade,1.0,60.0,Beverages,Dine-in,2026-02-25 22:32:00
+O00401,C0113,Sandwich,2.0,100.0,Snacks,Dine-in,2026-03-13 14:53:00
+O00331,C0052,Pizza,1.0,250.0,Fast Food,Dine-in,2026-02-19 23:57:00
+O00403,C0110,Margherita Pizza,1.0,220.0,Fast Food,Delivery,2026-03-08 14:35:00
+O00159,C0203,Ice Cream,2.0,90.0,Desserts,Dine-in,2026-01-25 12:49:00
+O00394,C0239,Brownie,3.0,110.0,Desserts,Delivery,2026-03-23 19:03:00
+O00361,C0186,Burger,1.0,120.0,Fast Food,Dine-in,2026-01-10 17:28:00
+O00292,C0004,French Fries,1.0,80.0,Snacks,Delivery,2026-01-24 13:03:00
+O00001,C0193,Burger,1.0,120.0,Fast Food,Dine-in,2026-02-02 18:11:00
+O00412,C0117,Cheese Burger,2.0,160.0,Fast Food,Dine-in,2026-03-26 09:43:00
+O00017,C0002,Pasta,1.0,180.0,Main Course,Dine-in,2026-03-16 19:19:00
+O00165,C0047,Coffee,1.0,80.0,Beverages,Delivery,2026-02-08 17:20:00
+O00177,C0226,Pasta,2.0,180.0,Main Course,Dine-in,2026-01-15 19:23:00
+O00328,C0048,French Fries,3.0,80.0,Snacks,Delivery,2026-03-24 21:04:00
+O00417,C0220,Paneer Rice Bowl,2.0,190.0,Main Course,Delivery,2026-01-02 08:12:00
+O00399,C0096,Pizza,4.0,250.0,Fast Food,Dine-in,2026-03-12 16:40:00
+O00273,C0137,Ice Cream,3.0,90.0,Desserts,Delivery,2026-03-19 21:23:00
+O00216,C0021,Sandwich,1.0,100.0,Snacks,Dine-in,2026-02-16 19:07:00
+O00270,C0095,Biryani,3.0,220.0,Main Course,Delivery,2026-01-04 14:02:00
+O00075,C0095,Pizza,,250.0,Fast Food,Takeaway,2026-03-10 20:44:00
+O00356,C0168,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-02-08 23:44:00
+O00226,C0217,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-03-28 10:51:00
+O00077,C0165,Cheese Burger,2.0,160.0,Fast Food,Dine-in,2026-01-03 12:08:00
+O00372,C0104,Lemonade,2.0,60.0,Beverages,Delivery,2026-01-24 09:42:00
+O00097,C0223,Burger,1.0,120.0,Fast Food,Dine-in,2026-02-17 12:16:00
+O00413,C0164,Biryani,1.0,220.0,Main Course,Dine-in,2026-02-10 08:16:00
+O00156,C0012,Lemonade,2.0,60.0,Beverages,Takeaway,2026-01-23 16:53:00
+O00213,C0214,Coffee,1.0,80.0,Beverages,Takeaway,2026-01-24 20:16:00
+O00330,C0066,Cold Drink,4.0,50.0,Beverages,Takeaway,2026-02-02 17:08:00
+O00310,C0058,Lemonade,4.0,60.0,Beverages,Delivery,2026-02-13 11:33:00
+O00175,C0208,Garlic Bread,2.0,90.0,Snacks,Dine-in,2026-03-16 16:50:00
+O00331,C0052,Burger,1.0,120.0,Fast Food,Dine-in,2026-02-19 23:57:00
+O00063,C0211,Biryani,1.0,220.0,Main Course,Takeaway,2026-03-16 23:20:00
+O00202,C0219,French Fries,1.0,80.0,Snacks,Delivery,2026-02-09 13:01:00
+O00084,C0096,Cold Drink,3.0,50.0,Beverages,Takeaway,2026-03-18 07:40:00
+O00094,C0153,Margherita Pizza,4.0,220.0,Fast Food,Delivery,2026-01-20 22:20:00
+O00125,C0068,Burger,1.0,120.0,Fast Food,Takeaway,2026-03-19 20:01:00
+O00014,C0027,Burger,2.0,120.0,Fast Food,Dine-in,2026-03-30 11:33:00
+O00400,C0196,Lemonade,1.0,60.0,Beverages,Delivery,2026-02-13 13:55:00
+O00303,C0066,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-03-03 08:06:00
+O00206,C0089,Lemonade,1.0,60.0,Beverages,Delivery,2026-02-01 13:37:00
+O00390,C0059,Garlic Bread,1.0,90.0,Snacks,Takeaway,2026-03-11 13:06:00
+O00016,C0038,Cheese Burger,2.0,160.0,Fast Food,Takeaway,2026-01-13 18:21:00
+O00064,C0209,Lemonade,2.0,60.0,Beverages,Dine-in,2026-01-06 11:36:00
+O00301,C0010,Pasta,1.0,180.0,Main Course,Delivery,2026-01-25 16:11:00
+O00415,C0244,Pasta,1.0,180.0,Main Course,Delivery,2026-02-19 08:56:00
+O00376,C0042,Biryani,2.0,220.0,Main Course,Delivery,2026-02-18 07:43:00
+O00194,C0220,Burger,1.0,120.0,Fast Food,Delivery,2026-01-20 20:25:00
+O00378,C0230,Ice Cream,2.0,90.0,Desserts,Dine-in,2026-03-28 15:18:00
+O00395,C0098,Sandwich,2.0,100.0,Snacks,Dine-in,2026-03-06 17:09:00
+O00197,C0125,Cheese Burger,4.0,160.0,Fast Food,Delivery,2026-02-27 10:13:00
+O00034,C0085,Ice Cream,1.0,90.0,Desserts,Delivery,2026-01-15 19:42:00
+O00118,C0154,Biryani,1.0,220.0,Main Course,Dine-in,2026-02-21 11:21:00
+O00072,C0017,Cheese Burger,,160.0,Fast Food,Takeaway,2026-02-24 15:55:00
+O00109,C0060,Garlic Bread,2.0,90.0,Snacks,Delivery,2026-03-05 14:15:00
+O00129,C0221,French Fries,2.0,80.0,Snacks,Delivery,2026-02-17 15:42:00
+O00365,C0095,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-01-24 12:33:00
+O00341,C0150,Coffee,1.0,80.0,Beverages,Delivery,2026-02-05 18:09:00
+O00155,C0245,Sandwich,3.0,100.0,Snacks,Delivery,2026-03-09 20:58:00
+O00392,C0047,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-01-16 13:16:00
+O00181,C0107,Coffee,1.0,80.0,Beverages,Dine-in,2026-03-06 22:39:00
+O00417,C0220,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-01-02 08:12:00
+O00019,C0034,Brownie,1.0,110.0,Desserts,Delivery,2026-03-19 23:03:00
+O00087,C0006,Cold Drink,2.0,50.0,Beverages,Dine-in,2026-03-25 09:14:00
+O00308,C0002,Lemonade,1.0,60.0,Beverages,Delivery,2026-02-18 23:28:00
+O00186,C0188,Margherita Pizza,2.0,220.0,Fast Food,Dine-in,2026-02-12 15:55:00
+O00010,C0209,Margherita Pizza,1.0,220.0,Fast Food,Delivery,2026-03-20 12:21:00
+O00229,C0093,Brownie,2.0,110.0,Desserts,Delivery,2026-02-12 09:59:00
+O00295,C0233,Ice Cream,2.0,90.0,Desserts,Dine-in,2026-02-01 17:04:00
+O00285,C0109,Pizza,1.0,250.0,Fast Food,Dine-in,2026-01-12 08:31:00
+O00174,C0244,French Fries,2.0,80.0,Snacks,Delivery,2026-03-10 07:49:00
+O00016,C0038,Pizza,1.0,250.0,Fast Food,Takeaway,2026-01-13 18:21:00
+O00209,C0065,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-03-30 17:42:00
+O00312,C0116,Coffee,2.0,80.0,Beverages,Delivery,2026-03-26 19:21:00
+O00416,C0239,Pasta,4.0,180.0,Main Course,Delivery,2026-02-22 18:13:00
+O00223,C0206,Biryani,1.0,220.0,Main Course,Dine-in,2026-01-18 22:03:00
+O00102,C0057,Burger,2.0,120.0,Fast Food,Delivery,2026-02-25 15:33:00
+O00411,C0038,Sandwich,1.0,100.0,Snacks,Delivery,2026-01-09 16:07:00
+O00031,C0008,Coffee,2.0,80.0,Beverages,Takeaway,2026-01-01 20:37:00
+O00208,C0238,Burger,1.0,120.0,Fast Food,Dine-in,2026-01-04 08:10:00
+O00321,C0195,Sandwich,2.0,100.0,Snacks,Delivery,2026-02-18 15:46:00
+O00045,C0218,Ice Cream,1.0,90.0,Desserts,Takeaway,2026-01-19 07:31:00
+O00118,C0154,Coffee,1.0,80.0,Beverages,Dine-in,2026-02-21 11:21:00
+O00418,C0003,Lemonade,2.0,60.0,Beverages,Takeaway,2026-02-27 08:02:00
+O00247,C0084,Biryani,1.0,220.0,Main Course,Delivery,2026-02-16 14:13:00
+O00147,C0154,Burger,2.0,120.0,Fast Food,Delivery,2026-01-03 10:13:00
+O00073,C0223,Margherita Pizza,1.0,220.0,Fast Food,Delivery,2026-01-02 18:32:00
+O00173,C0220,French Fries,1.0,80.0,Snacks,Dine-in,2026-03-02 13:56:00
+O00322,C0084,Coffee,1.0,80.0,Beverages,Takeaway,2026-03-30 08:28:00
+O00301,C0010,Burger,2.0,120.0,Fast Food,Delivery,2026-01-25 16:11:00
+O00394,C0239,Lemonade,1.0,60.0,Beverages,Delivery,2026-03-23 19:03:00
+O00253,C0017,Garlic Bread,4.0,90.0,Snacks,Dine-in,2026-02-26 18:02:00
+O00182,C0142,Lemonade,1.0,60.0,Beverages,Dine-in,2026-03-19 10:31:00
+O00241,C0057,Sandwich,1.0,100.0,Snacks,Takeaway,2026-01-13 20:38:00
+O00070,C0022,Ice Cream,1.0,90.0,Desserts,Delivery,2026-02-25 13:49:00
+O00280,C0132,Coffee,1.0,80.0,Beverages,Takeaway,2026-03-02 23:48:00
+O00186,C0188,Coffee,2.0,80.0,Beverages,Dine-in,2026-02-12 15:55:00
+O00179,C0056,Biryani,3.0,220.0,Main Course,Takeaway,2026-03-25 09:14:00
+O00150,C0054,Coffee,1.0,80.0,Beverages,Delivery,2026-03-12 17:43:00
+O00329,C0091,Sandwich,2.0,100.0,Snacks,Delivery,2026-03-27 14:07:00
+O00307,C0015,Margherita Pizza,,220.0,Fast Food,Delivery,2026-01-04 09:53:00
+O00058,C0197,Cheese Burger,1.0,160.0,Fast Food,Takeaway,2026-02-28 21:24:00
+O00042,C0053,Margherita Pizza,2.0,220.0,Fast Food,Delivery,2026-02-26 09:10:00
+O00330,C0066,Lemonade,1.0,60.0,Beverages,Takeaway,2026-02-02 17:08:00
+O00317,C0144,French Fries,3.0,80.0,Snacks,Delivery,2026-03-20 14:40:00
+O00348,C0214,Burger,2.0,120.0,Fast Food,Delivery,2026-02-13 13:49:00
+O00104,C0068,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-01-22 09:38:00
+O00357,C0221,Pizza,3.0,250.0,Fast Food,Delivery,2026-03-21 20:43:00
+O00261,C0205,Ice Cream,1.0,90.0,Desserts,Delivery,2026-01-11 14:42:00
+O00330,C0066,Ice Cream,2.0,90.0,Desserts,Takeaway,2026-02-02 17:08:00
+O00111,C0148,Biryani,1.0,220.0,Main Course,Delivery,2026-02-01 16:46:00
+O00195,C0108,Burger,3.0,120.0,Fast Food,Dine-in,2026-02-07 09:35:00
+O00013,C0231,Paneer Rice Bowl,2.0,190.0,Main Course,Takeaway,2026-02-04 13:59:00
+O00110,C0178,Biryani,2.0,220.0,Main Course,Takeaway,2026-01-13 13:00:00
+O00180,C0239,French Fries,1.0,80.0,Snacks,Takeaway,2026-03-08 09:22:00
+O00211,C0070,Coffee,1.0,80.0,Beverages,Takeaway,2026-03-08 22:40:00
+O00275,C0189,Lemonade,2.0,60.0,Beverages,Delivery,2026-01-03 22:46:00
+O00391,C0014,Paneer Rice Bowl,4.0,190.0,Main Course,Delivery,2026-01-05 07:13:00
+O00039,C0100,French Fries,3.0,80.0,Snacks,Takeaway,2026-02-23 07:28:00
+O00348,C0214,Ice Cream,1.0,90.0,Desserts,Delivery,2026-02-13 13:49:00
+O00350,C0030,Cold Drink,3.0,50.0,Beverages,Takeaway,2026-01-10 23:23:00
+O00314,C0013,Ice Cream,1.0,90.0,Desserts,Delivery,2026-03-28 13:39:00
+O00359,C0067,French Fries,2.0,80.0,Snacks,Dine-in,2026-02-19 11:09:00
+O00017,C0002,Lemonade,2.0,60.0,Beverages,Dine-in,2026-03-16 19:19:00
+O00158,C0155,Pasta,2.0,180.0,Main Course,Dine-in,2026-03-26 19:58:00
+O00243,C0125,French Fries,1.0,80.0,Snacks,Dine-in,2026-01-19 11:53:00
+O00397,C0120,Biryani,2.0,220.0,Main Course,Dine-in,2026-01-05 11:24:00
+O00007,C0127,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-02-14 22:51:00
+O00285,C0109,Cheese Burger,2.0,160.0,Fast Food,Dine-in,2026-01-12 08:31:00
+O00077,C0165,Brownie,1.0,110.0,Desserts,Dine-in,2026-01-03 12:08:00
+O00165,C0047,Brownie,1.0,110.0,Desserts,Delivery,2026-02-08 17:20:00
+O00146,C0054,Biryani,1.0,220.0,Main Course,Delivery,2026-01-13 14:58:00
+O00217,C0080,Pasta,2.0,180.0,Main Course,Delivery,2026-02-26 15:29:00
+O00197,C0125,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-02-27 10:13:00
+O00420,C0165,Ice Cream,3.0,90.0,Desserts,Dine-in,2026-02-06 14:09:00
+O00155,C0245,Brownie,1.0,110.0,Desserts,Delivery,2026-03-09 20:58:00
+O00310,C0058,Coffee,2.0,80.0,Beverages,Delivery,2026-02-13 11:33:00
+O00013,C0231,French Fries,4.0,80.0,Snacks,Takeaway,2026-02-04 13:59:00
+O00220,C0007,Sandwich,2.0,100.0,Snacks,Takeaway,2026-01-13 08:01:00
+O00408,C0035,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-02-28 22:13:00
+O00335,C0127,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-03-27 18:08:00
+O00030,C0022,Pasta,2.0,180.0,Main Course,Dine-in,2026-02-20 07:47:00
+O00288,C0090,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-03-01 12:42:00
+O00152,C0245,Margherita Pizza,2.0,220.0,Fast Food,Takeaway,2026-03-28 16:33:00
+O00400,C0196,Brownie,2.0,110.0,Desserts,Delivery,2026-02-13 13:55:00
+O00378,C0230,Burger,2.0,120.0,Fast Food,Dine-in,2026-03-28 15:18:00
+O00235,C0212,Lemonade,1.0,60.0,Beverages,Delivery,2026-02-09 23:47:00
+O00395,C0098,Brownie,1.0,110.0,Desserts,Dine-in,2026-03-06 17:09:00
+O00401,C0113,Pasta,2.0,180.0,Main Course,Dine-in,2026-03-13 14:53:00
+O00069,C0106,Brownie,1.0,110.0,Desserts,Delivery,2026-03-20 18:14:00
+O00323,C0097,Paneer Rice Bowl,1.0,190.0,Main Course,Takeaway,2026-03-30 09:30:00
+O00103,C0214,Sandwich,2.0,,Snacks,Delivery,2026-02-17 20:06:00
+O00402,C0129,French Fries,1.0,80.0,Snacks,Takeaway,2026-03-28 18:10:00
+O00277,C0149,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-02-14 17:08:00
+O00116,C0037,French Fries,1.0,80.0,Snacks,Dine-in,2026-03-15 16:44:00
+O00324,C0141,Margherita Pizza,1.0,220.0,Fast Food,Delivery,2026-02-19 23:18:00
+O00150,C0054,Burger,2.0,120.0,Fast Food,Delivery,2026-03-12 17:43:00
+O00099,C0219,Coffee,2.0,80.0,Beverages,Takeaway,2026-02-21 21:28:00
+O00009,C0068,French Fries,1.0,80.0,Snacks,Dine-in,2026-01-16 22:58:00
+O00281,C0225,Lemonade,1.0,60.0,Beverages,Takeaway,2026-03-25 18:25:00
+O00004,C0017,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-03-24 14:59:00
+O00313,C0153,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-01-01 07:38:00
+O00154,C0111,Ice Cream,1.0,90.0,Desserts,Delivery,2026-02-11 07:47:00
+O00318,C0237,Garlic Bread,3.0,90.0,Snacks,Takeaway,2026-03-22 19:37:00
+O00153,C0063,French Fries,1.0,80.0,Snacks,Dine-in,2026-02-05 15:57:00
+O00420,C0165,Coffee,3.0,80.0,Beverages,Dine-in,2026-02-06 14:09:00
+O00131,C0135,Coffee,1.0,80.0,Beverages,Dine-in,2026-01-30 07:06:00
+O00273,C0137,Lemonade,2.0,60.0,Beverages,Delivery,2026-03-19 21:23:00
+O00209,C0065,Pasta,3.0,180.0,Main Course,Delivery,2026-03-30 17:42:00
+O00081,C0124,Paneer Rice Bowl,4.0,190.0,Main Course,Dine-in,2026-02-04 23:37:00
+O00099,C0219,Brownie,1.0,110.0,Desserts,Takeaway,2026-02-21 21:28:00
+O00082,C0027,Biryani,1.0,220.0,Main Course,Delivery,2026-03-03 16:36:00
+O00396,C0192,Margherita Pizza,2.0,220.0,Fast Food,Dine-in,2026-02-24 13:43:00
+O00258,C0125,Ice Cream,3.0,90.0,Desserts,Takeaway,2026-03-15 16:47:00
+O00221,C0220,Paneer Rice Bowl,2.0,190.0,Main Course,Takeaway,2026-02-16 22:23:00
+O00377,C0054,Biryani,1.0,220.0,Main Course,Dine-in,2026-01-06 10:21:00
+O00104,C0068,Sandwich,1.0,100.0,Snacks,Dine-in,2026-01-22 09:38:00
+O00069,C0106,Pasta,1.0,180.0,Main Course,Delivery,2026-03-20 18:14:00
+O00066,C0072,Burger,1.0,120.0,Fast Food,Dine-in,2026-02-10 11:52:00
+O00281,C0225,Paneer Rice Bowl,1.0,190.0,Main Course,Takeaway,2026-03-25 18:25:00
+O00183,C0108,Burger,2.0,120.0,Fast Food,Takeaway,2026-02-18 20:51:00
+O00408,C0035,Brownie,1.0,110.0,Desserts,Takeaway,2026-02-28 22:13:00
+O00032,C0112,Pasta,1.0,180.0,Main Course,Delivery,2026-03-06 15:56:00
+O00219,C0217,Burger,2.0,120.0,Fast Food,Dine-in,2026-02-27 17:21:00
+O00185,C0039,French Fries,2.0,80.0,Snacks,Dine-in,2026-03-13 16:12:00
+O00102,C0057,Margherita Pizza,1.0,220.0,Fast Food,Delivery,2026-02-25 15:33:00
+O00351,C0218,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-01-21 20:13:00
+O00204,C0043,Paneer Rice Bowl,2.0,190.0,Main Course,Dine-in,2026-03-15 17:44:00
+O00261,C0205,Cold Drink,4.0,50.0,Beverages,Delivery,2026-01-11 14:42:00
+O00110,C0178,Margherita Pizza,2.0,220.0,Fast Food,Takeaway,2026-01-13 13:00:00
+O00148,C0191,Burger,2.0,120.0,Fast Food,Takeaway,2026-02-02 11:50:00
+O00148,C0191,Pizza,3.0,250.0,Fast Food,Takeaway,2026-02-02 11:50:00
+O00314,C0013,French Fries,1.0,80.0,Snacks,Delivery,2026-03-28 13:39:00
+O00175,C0208,Burger,2.0,120.0,Fast Food,Dine-in,2026-03-16 16:50:00
+O00006,C0138,Garlic Bread,3.0,90.0,Snacks,Delivery,2026-02-07 23:32:00
+O00117,C0250,Ice Cream,1.0,90.0,Desserts,Takeaway,2026-02-15 21:01:00
+O00128,C0206,Lemonade,1.0,60.0,Beverages,Takeaway,2026-02-06 22:34:00
+O00292,C0004,Cold Drink,2.0,50.0,Beverages,Delivery,2026-01-24 13:03:00
+O00295,C0233,French Fries,1.0,80.0,Snacks,Dine-in,2026-02-01 17:04:00
+O00346,C0048,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-01-15 16:27:00
+O00306,C0215,Pizza,2.0,250.0,Fast Food,Takeaway,2026-01-12 08:25:00
+O00282,C0224,Pasta,1.0,180.0,Main Course,Takeaway,2026-02-04 21:06:00
+O00199,C0187,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-03-05 23:56:00
+O00379,C0056,Sandwich,3.0,100.0,Snacks,Delivery,2026-03-26 23:32:00
+O00402,C0129,Burger,1.0,120.0,Fast Food,Takeaway,2026-03-28 18:10:00
+O00376,C0042,Lemonade,3.0,60.0,Beverages,Delivery,2026-02-18 07:43:00
+O00266,C0166,Pasta,1.0,180.0,Main Course,Dine-in,2026-03-29 13:04:00
+O00418,C0003,Coffee,2.0,80.0,Beverages,Takeaway,2026-02-27 08:02:00
+O00274,C0073,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-02-23 08:06:00
+O00072,C0017,Cold Drink,3.0,50.0,Beverages,Takeaway,2026-02-24 15:55:00
+O00343,C0014,Ice Cream,4.0,90.0,Desserts,Delivery,2026-01-28 14:50:00
+O00113,C0083,Margherita Pizza,3.0,220.0,Fast Food,Dine-in,2026-02-13 08:40:00
+O00188,C0182,Cold Drink,2.0,50.0,Beverages,Dine-in,2026-02-17 20:12:00
+O00190,C0250,Paneer Rice Bowl,2.0,190.0,Main Course,Dine-in,2026-01-16 15:45:00
+O00154,C0111,Sandwich,2.0,100.0,Snacks,Delivery,2026-02-11 07:47:00
+O00241,C0057,Biryani,4.0,220.0,Main Course,Takeaway,2026-01-13 20:38:00
+O00195,C0108,Cold Drink,4.0,50.0,Beverages,Dine-in,2026-02-07 09:35:00
+O00193,C0100,Burger,2.0,120.0,Fast Food,Dine-in,2026-01-23 12:28:00
+O00211,C0070,Cheese Burger,1.0,160.0,Fast Food,Takeaway,2026-03-08 22:40:00
+O00217,C0080,Brownie,1.0,110.0,Desserts,Delivery,2026-02-26 15:29:00
+O00092,C0057,Brownie,2.0,110.0,Desserts,Dine-in,2026-03-20 22:18:00
+O00362,C0216,Garlic Bread,3.0,90.0,Snacks,Dine-in,2026-02-04 22:45:00
+O00206,C0089,Burger,2.0,120.0,Fast Food,Delivery,2026-02-01 13:37:00
+O00302,C0145,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-03-20 14:35:00
+O00360,C0173,Biryani,1.0,220.0,Main Course,Dine-in,2026-03-27 16:48:00
+O00024,C0239,Sandwich,2.0,100.0,Snacks,Takeaway,2026-01-27 13:18:00
+O00084,C0096,Sandwich,2.0,100.0,Snacks,Takeaway,2026-03-18 07:40:00
+O00327,C0146,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-02-21 13:31:00
+O00278,C0143,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-03-05 12:10:00
+O00061,C0221,Coffee,2.0,80.0,Beverages,Dine-in,2026-01-28 10:11:00
+O00329,C0091,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-03-27 14:07:00
+O00136,C0184,Pizza,4.0,250.0,Fast Food,Delivery,2026-02-26 20:47:00
+O00126,C0239,Cheese Burger,2.0,160.0,Fast Food,Dine-in,2026-01-26 09:13:00
+O00014,C0027,Biryani,2.0,220.0,Main Course,Dine-in,2026-03-30 11:33:00
+O00105,C0172,Lemonade,1.0,60.0,Beverages,Delivery,2026-03-10 12:00:00
+O00294,C0222,Burger,1.0,120.0,Fast Food,Dine-in,2026-03-06 23:00:00
+O00064,C0209,Biryani,2.0,220.0,Main Course,Dine-in,2026-01-06 11:36:00
+O00076,C0054,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-02-22 12:45:00
+O00360,C0173,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-03-27 16:48:00
+O00294,C0222,Cold Drink,2.0,50.0,Beverages,Dine-in,2026-03-06 23:00:00
+O00273,C0137,Brownie,3.0,110.0,Desserts,Delivery,2026-03-19 21:23:00
+O00363,C0178,Pasta,2.0,180.0,Main Course,Dine-in,2026-03-01 18:56:00
+O00062,C0040,Brownie,2.0,110.0,Desserts,Dine-in,2026-01-07 07:03:00
+O00162,C0134,Burger,1.0,120.0,Fast Food,Dine-in,2026-03-03 15:51:00
+O00088,C0190,Pizza,1.0,250.0,Fast Food,Delivery,2026-02-14 07:56:00
+O00380,C0099,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-03-05 23:57:00
+O00340,C0201,Garlic Bread,1.0,90.0,Snacks,Takeaway,2026-02-06 10:50:00
+O00358,C0127,Pizza,1.0,250.0,Fast Food,Dine-in,2026-02-06 10:22:00
+O00397,C0120,Lemonade,2.0,60.0,Beverages,Dine-in,2026-01-05 11:24:00
+O00182,C0142,Paneer Rice Bowl,2.0,190.0,Main Course,Dine-in,2026-03-19 10:31:00
+O00237,C0046,Pizza,2.0,250.0,Fast Food,Delivery,2026-03-17 22:42:00
+O00176,C0041,Garlic Bread,1.0,90.0,Snacks,Takeaway,2026-03-16 13:37:00
+O00023,C0210,Garlic Bread,1.0,90.0,Snacks,Dine-in,2026-02-25 22:32:00
+O00114,C0045,Garlic Bread,2.0,90.0,Snacks,Takeaway,2026-01-29 07:14:00
+O00161,C0037,Ice Cream,1.0,90.0,Desserts,Delivery,2026-01-15 10:27:00
+O00229,C0093,Pasta,1.0,180.0,Main Course,Delivery,2026-02-12 09:59:00
+O00316,C0124,Burger,1.0,120.0,Fast Food,Delivery,2026-02-18 17:25:00
+O00339,C0238,Cold Drink,2.0,50.0,Beverages,Dine-in,2026-02-28 09:19:00
+O00300,C0016,Paneer Rice Bowl,3.0,190.0,Main Course,Delivery,2026-01-26 18:45:00
+O00245,C0090,Pasta,1.0,180.0,Main Course,Takeaway,2026-02-06 13:48:00
+O00009,C0068,Sandwich,3.0,100.0,Snacks,Dine-in,2026-01-16 22:58:00
+O00313,C0153,Biryani,2.0,220.0,Main Course,Delivery,2026-01-01 07:38:00
+O00211,C0070,Burger,1.0,120.0,Fast Food,Takeaway,2026-03-08 22:40:00
+O00142,C0053,Lemonade,1.0,60.0,Beverages,Dine-in,2026-02-16 18:37:00
+O00136,C0184,Garlic Bread,3.0,90.0,Snacks,Delivery,2026-02-26 20:47:00
+O00109,C0060,Brownie,1.0,110.0,Desserts,Delivery,2026-03-05 14:15:00
+O00106,C0150,Sandwich,1.0,100.0,Snacks,Delivery,2026-02-25 12:06:00
+O00363,C0178,Garlic Bread,1.0,90.0,Snacks,Dine-in,2026-03-01 18:56:00
+O00057,C0224,Coffee,3.0,80.0,Beverages,Takeaway,2026-02-04 09:26:00
+O00344,C0193,Pizza,2.0,250.0,Fast Food,Takeaway,2026-02-07 20:18:00
+O00103,C0214,Ice Cream,1.0,90.0,Desserts,Delivery,2026-02-17 20:06:00
+O00055,C0024,Cold Drink,1.0,50.0,Beverages,Delivery,2026-03-19 22:16:00
+O00029,C0156,Garlic Bread,2.0,90.0,Snacks,Dine-in,2026-01-03 08:47:00
+O00282,C0224,Sandwich,3.0,100.0,Snacks,Takeaway,2026-02-04 21:06:00
+O00040,C0141,Margherita Pizza,1.0,220.0,Fast Food,Delivery,2026-01-30 07:50:00
+O00138,C0068,Brownie,1.0,110.0,Desserts,Dine-in,2026-02-26 16:30:00
+O00145,C0149,Pasta,4.0,180.0,Main Course,Takeaway,2026-03-08 13:36:00
+O00397,C0120,Pizza,2.0,250.0,Fast Food,Dine-in,2026-01-05 11:24:00
+O00160,C0038,French Fries,3.0,80.0,Snacks,Dine-in,2026-03-27 21:34:00
+O00047,C0133,Biryani,1.0,220.0,Main Course,Takeaway,2026-01-09 21:44:00
+O00256,C0063,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-01-08 21:42:00
+O00148,C0191,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-02-02 11:50:00
+O00296,C0181,Brownie,1.0,110.0,Desserts,Dine-in,2026-02-10 19:10:00
+O00134,C0107,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-02-12 14:38:00
+O00289,C0021,Pizza,1.0,250.0,Fast Food,Takeaway,2026-02-11 23:38:00
+O00014,C0027,Brownie,1.0,110.0,Desserts,Dine-in,2026-03-30 11:33:00
+O00082,C0027,Pasta,1.0,180.0,Main Course,Delivery,2026-03-03 16:36:00
+O00369,C0223,Paneer Rice Bowl,3.0,190.0,Main Course,Delivery,2026-03-18 08:00:00
+O00034,C0085,Pasta,1.0,180.0,Main Course,Delivery,2026-01-15 19:42:00
+O00025,C0026,Brownie,1.0,110.0,Desserts,Dine-in,2026-01-14 22:33:00
+O00069,C0106,Paneer Rice Bowl,3.0,190.0,Main Course,Delivery,2026-03-20 18:14:00
+O00237,C0046,Coffee,2.0,80.0,Beverages,Delivery,2026-03-17 22:42:00
+O00015,C0199,Lemonade,1.0,60.0,Beverages,Dine-in,2026-01-31 19:25:00
+O00227,C0073,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-02-15 12:39:00
+O00249,C0160,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-01-26 09:14:00
+O00121,C0037,Burger,1.0,120.0,Fast Food,Takeaway,2026-03-25 18:09:00
+O00350,C0030,Cheese Burger,2.0,160.0,Fast Food,Takeaway,2026-01-10 23:23:00
+O00015,C0199,Garlic Bread,2.0,90.0,Snacks,Dine-in,2026-01-31 19:25:00
+O00143,C0097,Cheese Burger,1.0,160.0,Fast Food,Takeaway,2026-02-20 16:26:00
+O00380,C0099,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-03-05 23:57:00
+O00135,C0028,Coffee,4.0,80.0,Beverages,Takeaway,2026-02-04 09:47:00
+O00240,C0238,Paneer Rice Bowl,1.0,190.0,Main Course,Takeaway,2026-02-18 08:42:00
+O00071,C0206,Brownie,1.0,110.0,Desserts,Dine-in,2026-01-04 23:02:00
+O00247,C0084,Pasta,1.0,180.0,Main Course,Delivery,2026-02-16 14:13:00
+O00202,C0219,Cold Drink,3.0,50.0,Beverages,Delivery,2026-02-09 13:01:00
+O00319,C0135,Pasta,1.0,180.0,Main Course,Takeaway,2026-03-05 23:14:00
+O00125,C0068,Pizza,1.0,250.0,Fast Food,Takeaway,2026-03-19 20:01:00
+O00178,C0231,Sandwich,1.0,100.0,Snacks,Dine-in,2026-03-06 19:44:00
+O00415,C0244,French Fries,2.0,80.0,Snacks,Delivery,2026-02-19 08:56:00
+O00012,C0197,Pasta,1.0,180.0,Main Course,Delivery,2026-01-04 17:08:00
+O00059,C0096,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-03-02 22:59:00
+O00401,C0113,Biryani,1.0,220.0,Main Course,Dine-in,2026-03-13 14:53:00
+O00195,C0108,French Fries,1.0,80.0,Snacks,Dine-in,2026-02-07 09:35:00
+O00174,C0244,Cold Drink,2.0,50.0,Beverages,Delivery,2026-03-10 07:49:00
+O00167,C0247,Pizza,1.0,250.0,Fast Food,Dine-in,2026-01-19 15:30:00
+O00246,C0110,Pizza,1.0,250.0,Fast Food,Dine-in,2026-02-14 08:22:00
+O00349,C0009,Lemonade,1.0,60.0,Beverages,Takeaway,2026-01-07 08:50:00
+O00406,C0004,Pasta,3.0,180.0,Main Course,Dine-in,2026-02-18 10:34:00
+O00191,C0039,Biryani,1.0,220.0,Main Course,Dine-in,2026-01-15 23:25:00
+O00271,C0137,Brownie,2.0,110.0,Desserts,Takeaway,2026-02-01 21:41:00
+O00214,C0119,Burger,2.0,120.0,Fast Food,Delivery,2026-02-15 22:29:00
+O00249,C0160,Lemonade,1.0,60.0,Beverages,Dine-in,2026-01-26 09:14:00
+O00076,C0054,Biryani,3.0,220.0,Main Course,Dine-in,2026-02-22 12:45:00
+O00409,C0228,Coffee,3.0,80.0,Beverages,Delivery,2026-03-25 11:25:00
+O00350,C0030,Sandwich,1.0,100.0,Snacks,Takeaway,2026-01-10 23:23:00
+O00115,C0106,Pasta,4.0,180.0,Main Course,Delivery,2026-02-16 11:30:00
+O00286,C0050,Paneer Rice Bowl,1.0,190.0,Main Course,Takeaway,2026-03-01 15:55:00
+O00279,C0025,Coffee,1.0,80.0,Beverages,Dine-in,2026-03-01 13:55:00
+O00310,C0058,Margherita Pizza,3.0,220.0,Fast Food,Delivery,2026-02-13 11:33:00
+O00079,C0014,Garlic Bread,3.0,90.0,Snacks,Delivery,2026-03-23 18:40:00
+O00085,C0120,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-01-01 16:35:00
+O00311,C0043,Biryani,4.0,220.0,Main Course,Takeaway,2026-03-25 23:11:00
+O00395,C0098,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-03-06 17:09:00
+O00135,C0028,Cheese Burger,1.0,160.0,Fast Food,Takeaway,2026-02-04 09:47:00
+O00371,C0127,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-03-22 08:38:00
+O00078,C0008,French Fries,4.0,80.0,Snacks,Delivery,2026-03-30 09:34:00
+O00287,C0137,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-02-14 18:45:00
+O00121,C0037,Sandwich,2.0,100.0,Snacks,Takeaway,2026-03-25 18:09:00
+O00375,C0149,Pasta,2.0,180.0,Main Course,Dine-in,2026-03-28 09:13:00
+O00193,C0100,Brownie,2.0,110.0,Desserts,Dine-in,2026-01-23 12:28:00
+O00382,C0154,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-03-03 22:52:00
+O00265,C0082,Pizza,1.0,250.0,Fast Food,Takeaway,2026-03-21 21:46:00
+O00127,C0159,Pizza,1.0,250.0,Fast Food,Takeaway,2026-03-22 14:43:00
+O00286,C0050,Sandwich,3.0,100.0,Snacks,Takeaway,2026-03-01 15:55:00
+O00258,C0125,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-03-15 16:47:00
+O00409,C0228,Brownie,4.0,110.0,Desserts,Delivery,2026-03-25 11:25:00
+O00267,C0070,Sandwich,3.0,100.0,Snacks,Delivery,2026-02-19 19:27:00
+O00083,C0246,Burger,2.0,120.0,Fast Food,Takeaway,2026-03-01 07:06:00
+O00297,C0242,Ice Cream,3.0,90.0,Desserts,Dine-in,2026-01-30 08:21:00
+O00074,C0210,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-01-27 11:44:00
+O00269,C0194,French Fries,2.0,80.0,Snacks,Dine-in,2026-02-09 23:16:00
+O00299,C0216,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-02-23 14:06:00
+O00243,C0125,Garlic Bread,1.0,90.0,Snacks,Dine-in,2026-01-19 11:53:00
+O00272,C0014,Pasta,2.0,180.0,Main Course,Dine-in,2026-03-26 13:17:00
+O00284,C0093,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-03-21 20:17:00
+O00088,C0190,Brownie,1.0,110.0,Desserts,Delivery,2026-02-14 07:56:00
+O00108,C0085,Pizza,1.0,250.0,Fast Food,Dine-in,2026-01-01 18:14:00
+O00073,C0223,Brownie,1.0,110.0,Desserts,Delivery,2026-01-02 18:32:00
+O00383,C0054,Margherita Pizza,1.0,220.0,Fast Food,Delivery,2026-03-07 12:26:00
+O00043,C0124,Biryani,2.0,220.0,Main Course,Delivery,2026-02-14 09:21:00
+O00168,C0028,Cold Drink,2.0,50.0,Beverages,Delivery,2026-01-17 10:25:00
+O00152,C0245,Lemonade,2.0,60.0,Beverages,Takeaway,2026-03-28 16:33:00
+O00056,C0029,Cheese Burger,1.0,160.0,Fast Food,Takeaway,2026-02-15 16:21:00
+O00415,C0244,Garlic Bread,4.0,90.0,Snacks,Delivery,2026-02-19 08:56:00
+O00019,C0034,Cheese Burger,2.0,160.0,Fast Food,Delivery,2026-03-19 23:03:00
+O00163,C0109,Ice Cream,3.0,90.0,Desserts,Takeaway,2026-01-28 23:08:00
+O00288,C0090,Burger,2.0,120.0,Fast Food,Takeaway,2026-03-01 12:42:00
+O00236,C0081,Brownie,1.0,110.0,Desserts,Takeaway,2026-03-28 09:53:00
+O00172,C0006,Pizza,4.0,250.0,Fast Food,Dine-in,2026-02-26 23:02:00
+O00161,C0037,French Fries,1.0,80.0,Snacks,Delivery,2026-01-15 10:27:00
+O00026,C0058,Coffee,1.0,80.0,Beverages,Dine-in,2026-03-13 07:22:00
+O00267,C0070,Lemonade,2.0,60.0,Beverages,Delivery,2026-02-19 19:27:00
+O00227,C0073,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-02-15 12:39:00
+O00095,C0200,Cheese Burger,2.0,160.0,Fast Food,Takeaway,2026-03-23 23:40:00
+O00001,C0193,Pizza,1.0,250.0,Fast Food,Dine-in,2026-02-02 18:11:00
+O00269,C0194,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-02-09 23:16:00
+O00218,C0085,Coffee,2.0,80.0,Beverages,Delivery,2026-03-22 10:11:00
+O00262,C0185,Lemonade,1.0,60.0,Beverages,Takeaway,2026-03-24 21:31:00
+O00373,C0037,Brownie,1.0,110.0,Desserts,Takeaway,2026-01-12 18:33:00
+O00341,C0150,Margherita Pizza,2.0,220.0,Fast Food,Delivery,2026-02-05 18:09:00
+O00385,C0108,Ice Cream,1.0,90.0,Desserts,Takeaway,2026-01-14 08:32:00
+O00233,C0247,French Fries,2.0,80.0,Snacks,Dine-in,2026-02-13 20:13:00
+O00346,C0048,Lemonade,1.0,60.0,Beverages,Dine-in,2026-01-15 16:27:00
+O00208,C0238,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-01-04 08:10:00
+O00213,C0214,Biryani,2.0,220.0,Main Course,Takeaway,2026-01-24 20:16:00
+O00006,C0138,Cold Drink,2.0,50.0,Beverages,Delivery,2026-02-07 23:32:00
+O00131,C0135,Burger,3.0,120.0,Fast Food,Dine-in,2026-01-30 07:06:00
+O00095,C0200,Ice Cream,1.0,90.0,Desserts,Takeaway,2026-03-23 23:40:00
+O00403,C0110,Sandwich,4.0,100.0,Snacks,Delivery,2026-03-08 14:35:00
+O00142,C0053,Garlic Bread,3.0,90.0,Snacks,Dine-in,2026-02-16 18:37:00
+O00381,C0220,Sandwich,1.0,100.0,Snacks,Dine-in,2026-03-16 19:15:00
+O00183,C0108,Coffee,2.0,80.0,Beverages,Takeaway,2026-02-18 20:51:00
+O00192,C0210,Burger,1.0,120.0,Fast Food,Dine-in,2026-03-09 08:26:00
+O00293,C0128,Coffee,1.0,80.0,Beverages,Takeaway,2026-01-23 19:19:00
+O00409,C0228,Ice Cream,1.0,90.0,Desserts,Delivery,2026-03-25 11:25:00
+O00279,C0025,Sandwich,1.0,100.0,Snacks,Dine-in,2026-03-01 13:55:00
+O00210,C0023,Garlic Bread,1.0,90.0,Snacks,Dine-in,2026-01-27 09:29:00
+O00091,C0214,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-02-07 15:52:00
+O00251,C0109,Coffee,1.0,80.0,Beverages,Delivery,2026-02-02 07:41:00
+O00202,C0219,Ice Cream,1.0,90.0,Desserts,Delivery,2026-02-09 13:01:00
+O00135,C0028,Cold Drink,2.0,50.0,Beverages,Takeaway,2026-02-04 09:47:00
+O00054,C0024,Lemonade,2.0,,Beverages,Delivery,2026-01-16 12:36:00
+O00344,C0193,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-02-07 20:18:00
+O00343,C0014,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-01-28 14:50:00
+O00010,C0209,Garlic Bread,4.0,90.0,Snacks,Delivery,2026-03-20 12:21:00
+O00197,C0125,Ice Cream,1.0,90.0,Desserts,Delivery,2026-02-27 10:13:00
+O00225,C0119,Paneer Rice Bowl,2.0,190.0,Main Course,Dine-in,2026-03-08 11:40:00
+O00357,C0221,Lemonade,1.0,60.0,Beverages,Delivery,2026-03-21 20:43:00
+O00036,C0196,Burger,1.0,120.0,Fast Food,Delivery,2026-01-05 22:48:00
+O00308,C0002,Burger,1.0,,Fast Food,Delivery,2026-02-18 23:28:00
+O00412,C0117,Burger,1.0,120.0,Fast Food,Dine-in,2026-03-26 09:43:00
+O00156,C0012,Paneer Rice Bowl,4.0,190.0,Main Course,Takeaway,2026-01-23 16:53:00
+O00129,C0221,Brownie,1.0,110.0,Desserts,Delivery,2026-02-17 15:42:00
+O00222,C0202,Coffee,2.0,80.0,Beverages,Takeaway,2026-01-13 15:53:00
+O00169,C0165,Sandwich,1.0,100.0,Snacks,Dine-in,2026-03-15 08:37:00
+O00291,C0019,Ice Cream,3.0,90.0,Desserts,Dine-in,2026-02-08 16:52:00
+O00189,C0202,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-01-03 11:43:00
+O00030,C0022,Pizza,1.0,250.0,Fast Food,Dine-in,2026-02-20 07:47:00
+O00147,C0154,Pasta,1.0,180.0,Main Course,Delivery,2026-01-03 10:13:00
+O00229,C0093,Ice Cream,3.0,90.0,Desserts,Delivery,2026-02-12 09:59:00
+O00251,C0109,Paneer Rice Bowl,3.0,190.0,Main Course,Delivery,2026-02-02 07:41:00
+O00002,C0213,Burger,1.0,120.0,Fast Food,Takeaway,2026-01-15 17:31:00
+O00338,C0179,Burger,1.0,120.0,Fast Food,Dine-in,2026-03-17 14:31:00
+O00035,C0131,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-02-26 11:54:00
+O00252,C0183,Biryani,1.0,220.0,Main Course,Takeaway,2026-01-23 16:35:00
+O00325,C0193,Coffee,2.0,80.0,Beverages,Delivery,2026-02-06 10:15:00
+O00348,C0214,Cold Drink,1.0,50.0,Beverages,Delivery,2026-02-13 13:49:00
+O00409,C0228,Sandwich,2.0,100.0,Snacks,Delivery,2026-03-25 11:25:00
+O00391,C0014,Biryani,1.0,220.0,Main Course,Delivery,2026-01-05 07:13:00
+O00045,C0218,Paneer Rice Bowl,3.0,190.0,Main Course,Takeaway,2026-01-19 07:31:00
+O00154,C0111,Brownie,2.0,110.0,Desserts,Delivery,2026-02-11 07:47:00
+O00292,C0004,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-01-24 13:03:00
+O00119,C0073,Margherita Pizza,2.0,220.0,Fast Food,Dine-in,2026-02-27 23:38:00
+O00398,C0170,Burger,1.0,120.0,Fast Food,Takeaway,2026-03-12 15:25:00
+O00190,C0250,Sandwich,1.0,100.0,Snacks,Dine-in,2026-01-16 15:45:00
+O00259,C0030,Cheese Burger,2.0,160.0,Fast Food,Dine-in,2026-01-04 18:11:00
+O00351,C0218,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-01-21 20:13:00
+O00342,C0075,Burger,2.0,120.0,Fast Food,Dine-in,2026-01-29 12:16:00
+O00350,C0030,Margherita Pizza,2.0,220.0,Fast Food,Takeaway,2026-01-10 23:23:00
+O00214,C0119,Pasta,1.0,180.0,Main Course,Delivery,2026-02-15 22:29:00
+O00357,C0221,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-03-21 20:43:00
+O00038,C0160,Sandwich,2.0,100.0,Snacks,Delivery,2026-02-05 18:08:00
+O00217,C0080,Cold Drink,2.0,50.0,Beverages,Delivery,2026-02-26 15:29:00
+O00307,C0015,Lemonade,1.0,60.0,Beverages,Delivery,2026-01-04 09:53:00
+O00198,C0184,Burger,1.0,120.0,Fast Food,Delivery,2026-03-19 18:51:00
+O00101,C0230,Sandwich,3.0,100.0,Snacks,Takeaway,2026-01-02 22:06:00
+O00333,C0118,Ice Cream,1.0,90.0,Desserts,Delivery,2026-03-09 21:23:00
+O00268,C0190,Pizza,2.0,250.0,Fast Food,Delivery,2026-02-21 14:58:00
+O00233,C0247,Sandwich,1.0,100.0,Snacks,Dine-in,2026-02-13 20:13:00
+O00327,C0146,French Fries,1.0,80.0,Snacks,Dine-in,2026-02-21 13:31:00
+O00067,C0140,Cold Drink,2.0,50.0,Beverages,Delivery,2026-03-21 20:57:00
+O00102,C0057,Sandwich,1.0,100.0,Snacks,Delivery,2026-02-25 15:33:00
+O00144,C0065,Burger,1.0,120.0,Fast Food,Takeaway,2026-02-26 11:13:00
+O00225,C0119,Lemonade,1.0,60.0,Beverages,Dine-in,2026-03-08 11:40:00
+O00084,C0096,Pasta,2.0,180.0,Main Course,Takeaway,2026-03-18 07:40:00
+O00370,C0015,Brownie,,110.0,Desserts,Delivery,2026-02-11 22:42:00
+O00113,C0083,Sandwich,1.0,100.0,Snacks,Dine-in,2026-02-13 08:40:00
+O00296,C0181,Pasta,1.0,180.0,Main Course,Dine-in,2026-02-10 19:10:00
+O00104,C0068,Pizza,4.0,250.0,Fast Food,Dine-in,2026-01-22 09:38:00
+O00102,C0057,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-02-25 15:33:00
+O00393,C0091,Garlic Bread,1.0,90.0,Snacks,Takeaway,2026-01-06 10:29:00
+O00349,C0009,Sandwich,1.0,100.0,Snacks,Takeaway,2026-01-07 08:50:00
+O00133,C0155,Pizza,1.0,250.0,Fast Food,Takeaway,2026-01-04 20:24:00
+O00126,C0239,Garlic Bread,1.0,90.0,Snacks,Dine-in,2026-01-26 09:13:00
+O00200,C0136,Brownie,1.0,110.0,Desserts,Delivery,2026-03-20 13:51:00
+O00079,C0014,Pasta,3.0,180.0,Main Course,Delivery,2026-03-23 18:40:00
+O00263,C0096,Pizza,1.0,250.0,Fast Food,Takeaway,2026-01-21 14:54:00
+O00255,C0006,French Fries,1.0,80.0,Snacks,Delivery,2026-03-10 09:06:00
+O00352,C0227,Biryani,3.0,220.0,Main Course,Dine-in,2026-01-14 16:27:00
+O00108,C0085,Coffee,2.0,80.0,Beverages,Dine-in,2026-01-01 18:14:00
+O00098,C0229,French Fries,1.0,80.0,Snacks,Takeaway,2026-01-04 19:39:00
+O00060,C0169,Sandwich,1.0,100.0,Snacks,Takeaway,2026-02-28 07:38:00
+O00250,C0136,Brownie,3.0,110.0,Desserts,Delivery,2026-03-24 23:05:00
+O00041,C0182,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-02-13 21:37:00
+O00074,C0210,Margherita Pizza,1.0,220.0,Fast Food,Delivery,2026-01-27 11:44:00
+O00084,C0096,French Fries,3.0,80.0,Snacks,Takeaway,2026-03-18 07:40:00
+O00379,C0056,Margherita Pizza,1.0,220.0,Fast Food,Delivery,2026-03-26 23:32:00
+O00093,C0094,French Fries,1.0,80.0,Snacks,Dine-in,2026-03-29 14:44:00
+O00349,C0009,Brownie,1.0,110.0,Desserts,Takeaway,2026-01-07 08:50:00
+O00023,C0210,Burger,1.0,120.0,Fast Food,Dine-in,2026-02-25 22:32:00
+O00322,C0084,Sandwich,2.0,100.0,Snacks,Takeaway,2026-03-30 08:28:00
+O00006,C0138,Brownie,2.0,110.0,Desserts,Delivery,2026-02-07 23:32:00
+O00311,C0043,Margherita Pizza,3.0,220.0,Fast Food,Takeaway,2026-03-25 23:11:00
+O00164,C0241,French Fries,2.0,80.0,Snacks,Delivery,2026-02-28 08:10:00
+O00106,C0150,Biryani,1.0,220.0,Main Course,Delivery,2026-02-25 12:06:00
+O00309,C0241,Biryani,1.0,220.0,Main Course,Dine-in,2026-02-08 12:15:00
+O00056,C0029,Burger,1.0,120.0,Fast Food,Takeaway,2026-02-15 16:21:00
+O00294,C0222,Margherita Pizza,3.0,220.0,Fast Food,Dine-in,2026-03-06 23:00:00
+O00018,C0250,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-02-07 07:00:00
+O00320,C0110,Brownie,1.0,110.0,Desserts,Delivery,2026-01-13 16:40:00
+O00222,C0202,Margherita Pizza,3.0,220.0,Fast Food,Takeaway,2026-01-13 15:53:00
+O00059,C0096,Garlic Bread,1.0,90.0,Snacks,Dine-in,2026-03-02 22:59:00
+O00168,C0028,Lemonade,3.0,60.0,Beverages,Delivery,2026-01-17 10:25:00
+O00352,C0227,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-01-14 16:27:00
+O00284,C0093,Cold Drink,2.0,50.0,Beverages,Takeaway,2026-03-21 20:17:00
+O00114,C0045,Lemonade,1.0,60.0,Beverages,Takeaway,2026-01-29 07:14:00
+O00212,C0177,Burger,2.0,120.0,Fast Food,Dine-in,2026-01-29 13:50:00
+O00362,C0216,Coffee,1.0,80.0,Beverages,Dine-in,2026-02-04 22:45:00
+O00012,C0197,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-01-04 17:08:00
+O00378,C0230,Pasta,1.0,180.0,Main Course,Dine-in,2026-03-28 15:18:00
+O00196,C0159,Pasta,1.0,180.0,Main Course,Delivery,2026-03-23 13:25:00
+O00326,C0155,Biryani,4.0,220.0,Main Course,Delivery,2026-03-25 18:30:00
+O00320,C0110,Ice Cream,1.0,90.0,Desserts,Delivery,2026-01-13 16:40:00
+O00354,C0240,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-03-10 16:05:00
+O00388,C0004,Lemonade,1.0,60.0,Beverages,Delivery,2026-02-13 16:58:00
+O00035,C0131,Pasta,2.0,180.0,Main Course,Dine-in,2026-02-26 11:54:00
+O00026,C0058,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-03-13 07:22:00
+O00157,C0168,Biryani,2.0,220.0,Main Course,Takeaway,2026-02-08 20:03:00
+O00124,C0172,Sandwich,1.0,100.0,Snacks,Delivery,2026-01-22 11:13:00
+O00085,C0120,Burger,2.0,120.0,Fast Food,Dine-in,2026-01-01 16:35:00
+O00085,C0120,Lemonade,2.0,60.0,Beverages,Dine-in,2026-01-01 16:35:00
+O00009,C0068,Biryani,2.0,220.0,Main Course,Dine-in,2026-01-16 22:58:00
+O00231,C0173,Margherita Pizza,2.0,220.0,Fast Food,Delivery,2026-02-15 11:43:00
+O00151,C0024,Biryani,2.0,220.0,Main Course,Dine-in,2026-03-24 20:56:00
+O00404,C0160,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-01-25 11:50:00
+O00402,C0129,Cheese Burger,2.0,160.0,Fast Food,Takeaway,2026-03-28 18:10:00
+O00271,C0137,Lemonade,1.0,60.0,Beverages,Takeaway,2026-02-01 21:41:00
+O00412,C0117,Brownie,4.0,110.0,Desserts,Dine-in,2026-03-26 09:43:00
+O00315,C0141,Sandwich,1.0,100.0,Snacks,Dine-in,2026-02-08 18:26:00
+O00274,C0073,Ice Cream,2.0,90.0,Desserts,Takeaway,2026-02-23 08:06:00
+O00253,C0017,French Fries,1.0,80.0,Snacks,Dine-in,2026-02-26 18:02:00
+O00358,C0127,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-02-06 10:22:00
+O00050,C0194,Burger,1.0,120.0,Fast Food,Dine-in,2026-01-05 08:23:00
+O00206,C0089,Paneer Rice Bowl,3.0,190.0,Main Course,Delivery,2026-02-01 13:37:00
+O00370,C0015,Pasta,1.0,180.0,Main Course,Delivery,2026-02-11 22:42:00
+O00296,C0181,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-02-10 19:10:00
+O00210,C0023,Margherita Pizza,4.0,220.0,Fast Food,Dine-in,2026-01-27 09:29:00
+O00230,C0005,Sandwich,1.0,100.0,Snacks,Dine-in,2026-01-03 16:22:00
+O00244,C0029,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-01-16 14:22:00
+O00163,C0109,Burger,1.0,120.0,Fast Food,Takeaway,2026-01-28 23:08:00
+O00144,C0065,French Fries,1.0,80.0,Snacks,Takeaway,2026-02-26 11:13:00
+O00103,C0214,Lemonade,3.0,60.0,Beverages,Delivery,2026-02-17 20:06:00
+O00057,C0224,French Fries,1.0,80.0,Snacks,Takeaway,2026-02-04 09:26:00
+O00277,C0149,Burger,1.0,120.0,Fast Food,Delivery,2026-02-14 17:08:00
+O00392,C0047,Cold Drink,1.0,50.0,Beverages,Delivery,2026-01-16 13:16:00
+O00041,C0182,Pasta,2.0,180.0,Main Course,Dine-in,2026-02-13 21:37:00
+O00048,C0066,French Fries,3.0,80.0,Snacks,Delivery,2026-01-22 18:56:00
+O00076,C0054,Pizza,1.0,250.0,Fast Food,Dine-in,2026-02-22 12:45:00
+O00033,C0194,Lemonade,1.0,60.0,Beverages,Dine-in,2026-01-10 18:23:00
+O00384,C0009,Garlic Bread,2.0,90.0,Snacks,Delivery,2026-03-28 17:31:00
+O00283,C0177,Biryani,1.0,220.0,Main Course,Dine-in,2026-02-02 13:19:00
+O00034,C0085,Margherita Pizza,1.0,220.0,Fast Food,Delivery,2026-01-15 19:42:00
+O00033,C0194,Brownie,1.0,110.0,Desserts,Dine-in,2026-01-10 18:23:00
+O00216,C0021,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-02-16 19:07:00
+O00199,C0187,French Fries,2.0,80.0,Snacks,Takeaway,2026-03-05 23:56:00
+O00398,C0170,Coffee,1.0,80.0,Beverages,Takeaway,2026-03-12 15:25:00
+O00322,C0084,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-03-30 08:28:00
+O00095,C0200,Paneer Rice Bowl,1.0,190.0,Main Course,Takeaway,2026-03-23 23:40:00
+O00286,C0050,Pizza,2.0,250.0,Fast Food,Takeaway,2026-03-01 15:55:00
+O00043,C0124,Pizza,3.0,250.0,Fast Food,Delivery,2026-02-14 09:21:00
+O00172,C0006,Cold Drink,2.0,50.0,Beverages,Dine-in,2026-02-26 23:02:00
+O00132,C0165,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-02-22 16:04:00
+O00385,C0108,Brownie,1.0,110.0,Desserts,Takeaway,2026-01-14 08:32:00
+O00021,C0065,Sandwich,1.0,100.0,Snacks,Takeaway,2026-01-08 13:06:00
+O00359,C0067,Pasta,3.0,180.0,Main Course,Dine-in,2026-02-19 11:09:00
+O00302,C0145,Sandwich,1.0,100.0,Snacks,Dine-in,2026-03-20 14:35:00
+O00086,C0093,Coffee,1.0,80.0,Beverages,Takeaway,2026-01-18 14:02:00
+O00121,C0037,Paneer Rice Bowl,1.0,190.0,Main Course,Takeaway,2026-03-25 18:09:00
+O00208,C0238,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-01-04 08:10:00
+O00260,C0134,Cold Drink,2.0,50.0,Beverages,Delivery,2026-02-01 17:28:00
+O00412,C0117,Sandwich,1.0,100.0,Snacks,Dine-in,2026-03-26 09:43:00
+O00367,C0234,Cheese Burger,1.0,160.0,Fast Food,Takeaway,2026-01-11 12:40:00
+O00293,C0128,Cheese Burger,4.0,160.0,Fast Food,Takeaway,2026-01-23 19:19:00
+O00304,C0123,Garlic Bread,4.0,90.0,Snacks,Takeaway,2026-03-24 07:50:00
+O00117,C0250,Cheese Burger,3.0,160.0,Fast Food,Takeaway,2026-02-15 21:01:00
+O00308,C0002,Cold Drink,1.0,50.0,Beverages,Delivery,2026-02-18 23:28:00
+O00031,C0008,Garlic Bread,1.0,90.0,Snacks,Takeaway,2026-01-01 20:37:00
+O00231,C0173,Pasta,1.0,180.0,Main Course,Delivery,2026-02-15 11:43:00
+O00044,C0218,Cheese Burger,2.0,160.0,Fast Food,Takeaway,2026-01-24 13:01:00
+O00381,C0220,Coffee,1.0,80.0,Beverages,Dine-in,2026-03-16 19:15:00
+O00381,C0220,French Fries,2.0,80.0,Snacks,Dine-in,2026-03-16 19:15:00
+O00406,C0004,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-02-18 10:34:00
+O00312,C0116,Pasta,3.0,180.0,Main Course,Delivery,2026-03-26 19:21:00
+O00076,C0054,Pasta,1.0,180.0,Main Course,Dine-in,2026-02-22 12:45:00
+O00101,C0230,Ice Cream,1.0,90.0,Desserts,Takeaway,2026-01-02 22:06:00
+O00119,C0073,Burger,3.0,120.0,Fast Food,Dine-in,2026-02-27 23:38:00
+O00040,C0141,French Fries,1.0,80.0,Snacks,Delivery,2026-01-30 07:50:00
+O00092,C0057,Lemonade,1.0,60.0,Beverages,Dine-in,2026-03-20 22:18:00
+O00013,C0231,Pizza,2.0,250.0,Fast Food,Takeaway,2026-02-04 13:59:00
+O00173,C0220,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-03-02 13:56:00
+O00226,C0217,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-03-28 10:51:00
+O00019,C0034,Pizza,2.0,250.0,Fast Food,Delivery,2026-03-19 23:03:00
+O00318,C0237,Pasta,1.0,180.0,Main Course,Takeaway,2026-03-22 19:37:00
+O00221,C0220,Ice Cream,1.0,90.0,Desserts,Takeaway,2026-02-16 22:23:00
+O00396,C0192,Burger,1.0,120.0,Fast Food,Dine-in,2026-02-24 13:43:00
+O00079,C0014,Coffee,2.0,80.0,Beverages,Delivery,2026-03-23 18:40:00
+O00374,C0033,Paneer Rice Bowl,3.0,190.0,Main Course,Dine-in,2026-03-28 07:50:00
+O00058,C0197,Lemonade,2.0,60.0,Beverages,Takeaway,2026-02-28 21:24:00
+O00200,C0136,Garlic Bread,2.0,90.0,Snacks,Delivery,2026-03-20 13:51:00
+O00225,C0119,Brownie,1.0,110.0,Desserts,Dine-in,2026-03-08 11:40:00
+O00404,C0160,Pasta,1.0,180.0,Main Course,Delivery,2026-01-25 11:50:00
+O00181,C0107,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-03-06 22:39:00
+O00390,C0059,French Fries,2.0,80.0,Snacks,Takeaway,2026-03-11 13:06:00
+O00159,C0203,Cheese Burger,3.0,160.0,Fast Food,Dine-in,2026-01-25 12:49:00
+O00305,C0029,Burger,,120.0,Fast Food,Takeaway,2026-03-01 21:20:00
+O00283,C0177,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-02-02 13:19:00
+O00396,C0192,Biryani,1.0,220.0,Main Course,Dine-in,2026-02-24 13:43:00
+O00144,C0065,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-02-26 11:13:00
+O00366,C0094,Cheese Burger,4.0,160.0,Fast Food,Delivery,2026-03-27 22:16:00
+O00006,C0138,Burger,3.0,120.0,Fast Food,Delivery,2026-02-07 23:32:00
+O00116,C0037,Burger,1.0,120.0,Fast Food,Dine-in,2026-03-15 16:44:00
+O00298,C0056,Burger,1.0,120.0,Fast Food,Delivery,2026-01-04 13:07:00
+O00209,C0065,Biryani,2.0,220.0,Main Course,Delivery,2026-03-30 17:42:00
+O00112,C0072,Lemonade,1.0,60.0,Beverages,Delivery,2026-01-12 07:04:00
+O00257,C0065,Paneer Rice Bowl,2.0,190.0,Main Course,Takeaway,2026-03-02 08:38:00
+O00366,C0094,Lemonade,3.0,60.0,Beverages,Delivery,2026-03-27 22:16:00
+O00146,C0054,Lemonade,1.0,60.0,Beverages,Delivery,2026-01-13 14:58:00
+O00090,C0087,Garlic Bread,2.0,90.0,Snacks,Takeaway,2026-03-18 17:41:00
+O00250,C0136,Coffee,2.0,80.0,Beverages,Delivery,2026-03-24 23:05:00
+O00265,C0082,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-03-21 21:46:00
+O00124,C0172,Burger,1.0,120.0,Fast Food,Delivery,2026-01-22 11:13:00
+O00297,C0242,Pizza,1.0,250.0,Fast Food,Dine-in,2026-01-30 08:21:00
+O00044,C0218,Pasta,3.0,180.0,Main Course,Takeaway,2026-01-24 13:01:00
+O00201,C0250,Lemonade,3.0,60.0,Beverages,Dine-in,2026-03-28 13:36:00
+O00275,C0189,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-01-03 22:46:00
+O00033,C0194,Pizza,3.0,250.0,Fast Food,Dine-in,2026-01-10 18:23:00
+O00052,C0196,Garlic Bread,1.0,90.0,Snacks,Takeaway,2026-03-25 20:19:00
+O00256,C0063,Burger,3.0,120.0,Fast Food,Dine-in,2026-01-08 21:42:00
+O00187,C0155,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-03-31 14:06:00
+O00148,C0191,Garlic Bread,1.0,90.0,Snacks,Takeaway,2026-02-02 11:50:00
+O00247,C0084,Coffee,2.0,80.0,Beverages,Delivery,2026-02-16 14:13:00
+O00184,C0004,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-02-26 18:56:00
+O00265,C0082,Paneer Rice Bowl,3.0,190.0,Main Course,Takeaway,2026-03-21 21:46:00
+O00215,C0226,Pasta,,180.0,Main Course,Dine-in,2026-01-06 09:55:00
+O00396,C0192,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-02-24 13:43:00
+O00106,C0150,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-02-25 12:06:00
+O00280,C0132,Pasta,,180.0,Main Course,Takeaway,2026-03-02 23:48:00
+O00092,C0057,Burger,1.0,120.0,Fast Food,Dine-in,2026-03-20 22:18:00
+O00253,C0017,Lemonade,3.0,60.0,Beverages,Dine-in,2026-02-26 18:02:00
+O00043,C0124,Ice Cream,1.0,90.0,Desserts,Delivery,2026-02-14 09:21:00
+O00335,C0127,French Fries,3.0,80.0,Snacks,Dine-in,2026-03-27 18:08:00
+O00386,C0200,Pasta,1.0,180.0,Main Course,Takeaway,2026-02-18 13:33:00
+O00139,C0240,Cheese Burger,2.0,160.0,Fast Food,Dine-in,2026-03-31 18:14:00
+O00010,C0209,Coffee,2.0,80.0,Beverages,Delivery,2026-03-20 12:21:00
+O00019,C0034,Sandwich,1.0,100.0,Snacks,Delivery,2026-03-19 23:03:00
+O00410,C0230,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-01-23 20:26:00
+O00163,C0109,Cheese Burger,1.0,160.0,Fast Food,Takeaway,2026-01-28 23:08:00
+O00108,C0085,Burger,1.0,120.0,Fast Food,Dine-in,2026-01-01 18:14:00
+O00261,C0205,Burger,1.0,120.0,Fast Food,Delivery,2026-01-11 14:42:00
+O00279,C0025,Cheese Burger,3.0,160.0,Fast Food,Dine-in,2026-03-01 13:55:00
+O00025,C0026,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-01-14 22:33:00
+O00244,C0029,Lemonade,1.0,60.0,Beverages,Delivery,2026-01-16 14:22:00
+O00072,C0017,Ice Cream,2.0,90.0,Desserts,Takeaway,2026-02-24 15:55:00
+O00079,C0014,Biryani,3.0,220.0,Main Course,Delivery,2026-03-23 18:40:00
+O00008,C0149,Pizza,1.0,250.0,Fast Food,Dine-in,2026-03-02 10:00:00
+O00370,C0015,Biryani,1.0,220.0,Main Course,Delivery,2026-02-11 22:42:00
+O00114,C0045,French Fries,1.0,80.0,Snacks,Takeaway,2026-01-29 07:14:00
+O00359,C0067,Lemonade,1.0,60.0,Beverages,Dine-in,2026-02-19 11:09:00
+O00020,C0038,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-02-24 22:27:00
+O00092,C0057,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-03-20 22:18:00
+O00011,C0084,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-03-24 22:06:00
+O00301,C0010,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-01-25 16:11:00
+O00346,C0048,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-01-15 16:27:00
+O00100,C0005,French Fries,1.0,80.0,Snacks,Delivery,2026-01-02 12:00:00
+O00319,C0135,Cheese Burger,1.0,160.0,Fast Food,Takeaway,2026-03-05 23:14:00
+O00420,C0165,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-02-06 14:09:00
+O00170,C0100,Pizza,1.0,250.0,Fast Food,Dine-in,2026-03-13 09:54:00
+O00313,C0153,Pizza,1.0,250.0,Fast Food,Delivery,2026-01-01 07:38:00
+O00290,C0163,Cheese Burger,3.0,160.0,Fast Food,Dine-in,2026-03-04 13:41:00
+O00301,C0010,Margherita Pizza,4.0,220.0,Fast Food,Delivery,2026-01-25 16:11:00
+O00242,C0150,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-01-16 22:34:00
+O00217,C0080,Sandwich,3.0,100.0,Snacks,Delivery,2026-02-26 15:29:00
+O00257,C0065,Pizza,1.0,250.0,Fast Food,Takeaway,2026-03-02 08:38:00
+O00204,C0043,Burger,1.0,120.0,Fast Food,Dine-in,2026-03-15 17:44:00
+O00104,C0068,Burger,1.0,120.0,Fast Food,Dine-in,2026-01-22 09:38:00
+O00113,C0083,Brownie,1.0,110.0,Desserts,Dine-in,2026-02-13 08:40:00
+O00117,C0250,Burger,4.0,120.0,Fast Food,Takeaway,2026-02-15 21:01:00
+O00382,C0154,Pizza,2.0,250.0,Fast Food,Dine-in,2026-03-03 22:52:00
+O00235,C0212,Biryani,1.0,220.0,Main Course,Delivery,2026-02-09 23:47:00
+O00266,C0166,Pizza,1.0,250.0,Fast Food,Dine-in,2026-03-29 13:04:00
+O00120,C0228,Paneer Rice Bowl,2.0,190.0,Main Course,Dine-in,2026-03-16 23:19:00
+O00191,C0039,Garlic Bread,1.0,90.0,Snacks,Dine-in,2026-01-15 23:25:00
+O00179,C0056,Coffee,3.0,80.0,Beverages,Takeaway,2026-03-25 09:14:00
+O00190,C0250,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-01-16 15:45:00
+O00268,C0190,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-02-21 14:58:00
+O00247,C0084,Lemonade,1.0,60.0,Beverages,Delivery,2026-02-16 14:13:00
+O00008,C0149,French Fries,1.0,80.0,Snacks,Dine-in,2026-03-02 10:00:00
+O00365,C0095,Pasta,1.0,180.0,Main Course,Dine-in,2026-01-24 12:33:00
+O00289,C0021,Pasta,1.0,180.0,Main Course,Takeaway,2026-02-11 23:38:00
+O00085,C0120,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-01-01 16:35:00
+O00171,C0134,Sandwich,1.0,100.0,Snacks,Delivery,2026-03-15 12:18:00
+O00063,C0211,Lemonade,2.0,60.0,Beverages,Takeaway,2026-03-16 23:20:00
+O00370,C0015,Cold Drink,2.0,50.0,Beverages,Delivery,2026-02-11 22:42:00
+O00212,C0177,Margherita Pizza,2.0,220.0,Fast Food,Dine-in,2026-01-29 13:50:00
+O00167,C0247,Coffee,1.0,80.0,Beverages,Dine-in,2026-01-19 15:30:00
+O00154,C0111,Cheese Burger,2.0,160.0,Fast Food,Delivery,2026-02-11 07:47:00
+O00140,C0213,Biryani,2.0,220.0,Main Course,Delivery,2026-01-07 20:02:00
+O00210,C0023,Brownie,1.0,110.0,Desserts,Dine-in,2026-01-27 09:29:00
+O00334,C0029,Ice Cream,1.0,90.0,Desserts,Takeaway,2026-01-11 12:01:00
+O00385,C0108,Pasta,3.0,180.0,Main Course,Takeaway,2026-01-14 08:32:00
+O00231,C0173,Sandwich,4.0,100.0,Snacks,Delivery,2026-02-15 11:43:00
+O00070,C0022,Biryani,2.0,220.0,Main Course,Delivery,2026-02-25 13:49:00
+O00232,C0220,Paneer Rice Bowl,1.0,190.0,Main Course,Takeaway,2026-01-05 21:19:00
+O00185,C0039,Biryani,1.0,220.0,Main Course,Dine-in,2026-03-13 16:12:00
+O00340,C0201,Cold Drink,3.0,50.0,Beverages,Takeaway,2026-02-06 10:50:00
+O00369,C0223,Lemonade,2.0,60.0,Beverages,Delivery,2026-03-18 08:00:00
+O00031,C0008,Cold Drink,3.0,50.0,Beverages,Takeaway,2026-01-01 20:37:00
+O00038,C0160,Burger,1.0,120.0,Fast Food,Delivery,2026-02-05 18:08:00
+O00123,C0247,Margherita Pizza,1.0,220.0,Fast Food,Delivery,2026-01-31 22:19:00
+O00101,C0230,Lemonade,1.0,60.0,Beverages,Takeaway,2026-01-02 22:06:00
+O00236,C0081,Cold Drink,3.0,50.0,Beverages,Takeaway,2026-03-28 09:53:00
+O00213,C0214,Paneer Rice Bowl,3.0,190.0,Main Course,Takeaway,2026-01-24 20:16:00
+O00407,C0242,Coffee,1.0,80.0,Beverages,Takeaway,2026-01-15 18:47:00
+O00153,C0063,Coffee,1.0,80.0,Beverages,Dine-in,2026-02-05 15:57:00
+O00392,C0047,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-01-16 13:16:00
+O00386,C0200,Biryani,4.0,220.0,Main Course,Takeaway,2026-02-18 13:33:00
+O00086,C0093,Pizza,1.0,250.0,Fast Food,Takeaway,2026-01-18 14:02:00
+O00171,C0134,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-03-15 12:18:00
+O00073,C0223,Cold Drink,1.0,50.0,Beverages,Delivery,2026-01-02 18:32:00
+O00175,C0208,French Fries,2.0,80.0,Snacks,Dine-in,2026-03-16 16:50:00
+O00230,C0005,Lemonade,3.0,60.0,Beverages,Dine-in,2026-01-03 16:22:00
+O00080,C0032,Biryani,1.0,220.0,Main Course,Takeaway,2026-03-25 07:48:00
+O00180,C0239,Pasta,1.0,180.0,Main Course,Takeaway,2026-03-08 09:22:00
+O00323,C0097,Lemonade,1.0,60.0,Beverages,Takeaway,2026-03-30 09:30:00
+O00393,C0091,Cheese Burger,1.0,160.0,Fast Food,Takeaway,2026-01-06 10:29:00
+O00321,C0195,Lemonade,2.0,,Beverages,Delivery,2026-02-18 15:46:00
+O00300,C0016,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-01-26 18:45:00
+O00309,C0241,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-02-08 12:15:00
+O00140,C0213,Brownie,2.0,110.0,Desserts,Delivery,2026-01-07 20:02:00
+O00239,C0116,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-01-02 13:31:00
+O00347,C0118,Cold Drink,1.0,,Beverages,Takeaway,2026-03-11 13:13:00
+O00299,C0216,Cheese Burger,2.0,160.0,Fast Food,Dine-in,2026-02-23 14:06:00
+O00288,C0090,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-03-01 12:42:00
+O00242,C0150,Paneer Rice Bowl,2.0,190.0,Main Course,Delivery,2026-01-16 22:34:00
+O00223,C0206,Lemonade,2.0,60.0,Beverages,Dine-in,2026-01-18 22:03:00
+O00089,C0240,Pasta,2.0,180.0,Main Course,Takeaway,2026-01-12 09:55:00
+O00172,C0006,Coffee,3.0,80.0,Beverages,Dine-in,2026-02-26 23:02:00
+O00388,C0004,Margherita Pizza,1.0,220.0,Fast Food,Delivery,2026-02-13 16:58:00
+O00250,C0136,Lemonade,1.0,60.0,Beverages,Delivery,2026-03-24 23:05:00
+O00196,C0159,Paneer Rice Bowl,3.0,190.0,Main Course,Delivery,2026-03-23 13:25:00
+O00295,C0233,Biryani,3.0,220.0,Main Course,Dine-in,2026-02-01 17:04:00
+O00141,C0102,Biryani,4.0,220.0,Main Course,Dine-in,2026-02-17 12:42:00
+O00272,C0014,Lemonade,2.0,60.0,Beverages,Dine-in,2026-03-26 13:17:00
+O00109,C0060,Burger,1.0,120.0,Fast Food,Delivery,2026-03-05 14:15:00
+O00369,C0223,Pasta,1.0,180.0,Main Course,Delivery,2026-03-18 08:00:00
+O00024,C0239,Brownie,2.0,110.0,Desserts,Takeaway,2026-01-27 13:18:00
+O00035,C0131,Brownie,1.0,,Desserts,Dine-in,2026-02-26 11:54:00
+O00032,C0112,Brownie,3.0,110.0,Desserts,Delivery,2026-03-06 15:56:00
+O00178,C0231,Lemonade,2.0,60.0,Beverages,Dine-in,2026-03-06 19:44:00
+O00040,C0141,Pizza,2.0,250.0,Fast Food,Delivery,2026-01-30 07:50:00
+O00060,C0169,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-02-28 07:38:00
+O00383,C0054,Pizza,1.0,250.0,Fast Food,Delivery,2026-03-07 12:26:00
+O00022,C0014,Lemonade,2.0,60.0,Beverages,Dine-in,2026-03-12 19:04:00
+O00028,C0144,Sandwich,2.0,100.0,Snacks,Takeaway,2026-03-06 07:33:00
+O00347,C0118,Lemonade,2.0,60.0,Beverages,Takeaway,2026-03-11 13:13:00
+O00141,C0102,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-02-17 12:42:00
+O00042,C0053,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-02-26 09:10:00
+O00029,C0156,Cheese Burger,3.0,160.0,Fast Food,Dine-in,2026-01-03 08:47:00
+O00263,C0096,French Fries,3.0,80.0,Snacks,Takeaway,2026-01-21 14:54:00
+O00414,C0188,Paneer Rice Bowl,2.0,190.0,Main Course,Takeaway,2026-03-21 19:18:00
+O00150,C0054,Margherita Pizza,2.0,220.0,Fast Food,Delivery,2026-03-12 17:43:00
+O00203,C0021,Paneer Rice Bowl,2.0,190.0,Main Course,Dine-in,2026-02-22 12:26:00
+O00120,C0228,Sandwich,1.0,100.0,Snacks,Dine-in,2026-03-16 23:19:00
+O00115,C0106,Ice Cream,1.0,90.0,Desserts,Delivery,2026-02-16 11:30:00
+O00356,C0168,Paneer Rice Bowl,2.0,190.0,Main Course,Dine-in,2026-02-08 23:44:00
+O00293,C0128,Brownie,1.0,110.0,Desserts,Takeaway,2026-01-23 19:19:00
+O00344,C0193,Burger,1.0,120.0,Fast Food,Takeaway,2026-02-07 20:18:00
+O00262,C0185,Brownie,1.0,110.0,Desserts,Takeaway,2026-03-24 21:31:00
+O00282,C0224,Brownie,1.0,110.0,Desserts,Takeaway,2026-02-04 21:06:00
+O00068,C0054,Biryani,3.0,220.0,Main Course,Takeaway,2026-03-22 20:57:00
+O00034,C0085,Biryani,2.0,220.0,Main Course,Delivery,2026-01-15 19:42:00
+O00147,C0154,Cold Drink,2.0,50.0,Beverages,Delivery,2026-01-03 10:13:00
+O00184,C0004,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-02-26 18:56:00
+O00215,C0226,Coffee,4.0,80.0,Beverages,Dine-in,2026-01-06 09:55:00
+O00355,C0065,Burger,1.0,120.0,Fast Food,Delivery,2026-03-01 16:53:00
+O00267,C0070,French Fries,1.0,80.0,Snacks,Delivery,2026-02-19 19:27:00
+O00145,C0149,Sandwich,2.0,100.0,Snacks,Takeaway,2026-03-08 13:36:00
+O00345,C0056,French Fries,1.0,80.0,Snacks,Delivery,2026-03-05 08:56:00
+O00133,C0155,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-01-04 20:24:00
+O00298,C0056,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-01-04 13:07:00
+O00146,C0054,French Fries,1.0,80.0,Snacks,Delivery,2026-01-13 14:58:00
+O00304,C0123,Brownie,1.0,110.0,Desserts,Takeaway,2026-03-24 07:50:00
+O00124,C0172,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-01-22 11:13:00
+O00234,C0157,Coffee,1.0,80.0,Beverages,Dine-in,2026-01-30 18:43:00
+O00087,C0006,Margherita Pizza,2.0,220.0,Fast Food,Dine-in,2026-03-25 09:14:00
+O00133,C0155,Brownie,3.0,110.0,Desserts,Takeaway,2026-01-04 20:24:00
+O00337,C0050,Ice Cream,1.0,,Desserts,Takeaway,2026-02-15 07:36:00
+O00224,C0110,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-03-13 20:54:00
+O00180,C0239,Brownie,1.0,110.0,Desserts,Takeaway,2026-03-08 09:22:00
+O00081,C0124,Sandwich,2.0,100.0,Snacks,Dine-in,2026-02-04 23:37:00
+O00046,C0039,Pizza,4.0,250.0,Fast Food,Dine-in,2026-01-28 17:53:00
+O00233,C0247,Pasta,3.0,180.0,Main Course,Dine-in,2026-02-13 20:13:00
+O00364,C0188,Lemonade,1.0,60.0,Beverages,Takeaway,2026-01-18 16:06:00
+O00004,C0017,Pasta,1.0,180.0,Main Course,Takeaway,2026-03-24 14:59:00
+O00015,C0199,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-01-31 19:25:00
+O00098,C0229,Lemonade,1.0,60.0,Beverages,Takeaway,2026-01-04 19:39:00
+O00297,C0242,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-01-30 08:21:00
+O00041,C0182,Garlic Bread,1.0,90.0,Snacks,Dine-in,2026-02-13 21:37:00
+O00324,C0141,Coffee,2.0,80.0,Beverages,Delivery,2026-02-19 23:18:00
+O00283,C0177,Brownie,1.0,110.0,Desserts,Dine-in,2026-02-02 13:19:00
+O00191,C0039,Ice Cream,1.0,,Desserts,Dine-in,2026-01-15 23:25:00
+O00088,C0190,Lemonade,1.0,60.0,Beverages,Delivery,2026-02-14 07:56:00
+O00276,C0080,Sandwich,1.0,100.0,Snacks,Dine-in,2026-03-02 08:44:00
+O00065,C0105,Cold Drink,1.0,50.0,Beverages,Delivery,2026-01-06 08:23:00
+O00353,C0191,Biryani,3.0,220.0,Main Course,Delivery,2026-01-03 20:13:00
+O00399,C0096,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-03-12 16:40:00
+O00056,C0029,Brownie,3.0,110.0,Desserts,Takeaway,2026-02-15 16:21:00
+O00277,C0149,Garlic Bread,2.0,90.0,Snacks,Delivery,2026-02-14 17:08:00
+O00108,C0085,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-01-01 18:14:00
+O00003,C0161,Biryani,2.0,220.0,Main Course,Delivery,2026-01-10 16:22:00
+O00195,C0108,Margherita Pizza,2.0,220.0,Fast Food,Dine-in,2026-02-07 09:35:00
+O00126,C0239,Pasta,1.0,180.0,Main Course,Dine-in,2026-01-26 09:13:00
+O00363,C0178,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-03-01 18:56:00
+O00410,C0230,Burger,1.0,120.0,Fast Food,Dine-in,2026-01-23 20:26:00
+O00302,C0145,Biryani,1.0,220.0,Main Course,Dine-in,2026-03-20 14:35:00
+O00368,C0235,Cheese Burger,1.0,160.0,Fast Food,Takeaway,2026-03-07 12:40:00
+O00194,C0220,Coffee,2.0,80.0,Beverages,Delivery,2026-01-20 20:25:00
+O00192,C0210,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-03-09 08:26:00
+O00354,C0240,Cold Drink,1.0,50.0,Beverages,Delivery,2026-03-10 16:05:00
+O00189,C0202,Ice Cream,3.0,90.0,Desserts,Dine-in,2026-01-03 11:43:00
+O00303,C0066,Biryani,1.0,220.0,Main Course,Dine-in,2026-03-03 08:06:00
+O00001,C0193,Paneer Rice Bowl,2.0,190.0,Main Course,Dine-in,2026-02-02 18:11:00
+O00060,C0169,Biryani,2.0,220.0,Main Course,Takeaway,2026-02-28 07:38:00
+O00355,C0065,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-03-01 16:53:00
+O00137,C0073,Ice Cream,1.0,90.0,Desserts,Delivery,2026-03-09 08:12:00
+O00382,C0154,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-03-03 22:52:00
+O00100,C0005,Burger,2.0,120.0,Fast Food,Delivery,2026-01-02 12:00:00
+O00394,C0239,Garlic Bread,3.0,90.0,Snacks,Delivery,2026-03-23 19:03:00
+O00222,C0202,Lemonade,3.0,60.0,Beverages,Takeaway,2026-01-13 15:53:00
+O00219,C0217,Biryani,1.0,220.0,Main Course,Dine-in,2026-02-27 17:21:00
+O00248,C0175,Cheese Burger,1.0,160.0,Fast Food,Dine-in,2026-03-05 16:34:00
+O00403,C0110,Coffee,1.0,80.0,Beverages,Delivery,2026-03-08 14:35:00
+O00005,C0011,Pizza,2.0,250.0,Fast Food,Takeaway,2026-03-19 13:43:00
+O00229,C0093,Biryani,1.0,220.0,Main Course,Delivery,2026-02-12 09:59:00
+O00205,C0028,French Fries,2.0,80.0,Snacks,Dine-in,2026-03-24 12:05:00
+O00018,C0250,Biryani,4.0,220.0,Main Course,Dine-in,2026-02-07 07:00:00
+O00339,C0238,Pasta,1.0,180.0,Main Course,Dine-in,2026-02-28 09:19:00
+O00315,C0141,Ice Cream,1.0,90.0,Desserts,Dine-in,2026-02-08 18:26:00
+O00239,C0116,Garlic Bread,3.0,90.0,Snacks,Dine-in,2026-01-02 13:31:00
+O00094,C0153,Biryani,1.0,220.0,Main Course,Delivery,2026-01-20 22:20:00
+O00297,C0242,Lemonade,1.0,60.0,Beverages,Dine-in,2026-01-30 08:21:00
+O00415,C0244,Sandwich,1.0,100.0,Snacks,Delivery,2026-02-19 08:56:00
+O00411,C0038,Cheese Burger,2.0,160.0,Fast Food,Delivery,2026-01-09 16:07:00
+O00203,C0021,Coffee,1.0,80.0,Beverages,Dine-in,2026-02-22 12:26:00
+O00051,C0213,Pizza,1.0,250.0,Fast Food,Takeaway,2026-03-26 17:14:00
+O00305,C0029,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-03-01 21:20:00
+O00090,C0087,French Fries,1.0,80.0,Snacks,Takeaway,2026-03-18 17:41:00
+O00373,C0037,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-01-12 18:33:00
+O00382,C0154,Sandwich,1.0,100.0,Snacks,Dine-in,2026-03-03 22:52:00
+O00299,C0216,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-02-23 14:06:00
+O00097,C0223,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-02-17 12:16:00
+O00027,C0085,Paneer Rice Bowl,2.0,190.0,Main Course,Delivery,2026-03-02 12:18:00
+O00406,C0004,French Fries,4.0,80.0,Snacks,Dine-in,2026-02-18 10:34:00
+O00070,C0022,Margherita Pizza,3.0,220.0,Fast Food,Delivery,2026-02-25 13:49:00
+O00004,C0017,Garlic Bread,2.0,90.0,Snacks,Takeaway,2026-03-24 14:59:00
+O00008,C0149,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-03-02 10:00:00
+O00111,C0148,Lemonade,1.0,60.0,Beverages,Delivery,2026-02-01 16:46:00
+O00147,C0154,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-01-03 10:13:00
+O00268,C0190,Coffee,1.0,80.0,Beverages,Delivery,2026-02-21 14:58:00
+O00276,C0080,Paneer Rice Bowl,2.0,190.0,Main Course,Dine-in,2026-03-02 08:44:00
+O00036,C0196,Lemonade,2.0,60.0,Beverages,Delivery,2026-01-05 22:48:00
+O00176,C0041,Burger,2.0,120.0,Fast Food,Takeaway,2026-03-16 13:37:00
+O00265,C0082,Lemonade,2.0,60.0,Beverages,Takeaway,2026-03-21 21:46:00
+O00096,C0184,Ice Cream,2.0,90.0,Desserts,Dine-in,2026-02-12 21:31:00
+O00282,C0224,Burger,1.0,120.0,Fast Food,Takeaway,2026-02-04 21:06:00
+O00259,C0030,Paneer Rice Bowl,1.0,190.0,Main Course,Dine-in,2026-01-04 18:11:00
+O00107,C0230,Ice Cream,1.0,90.0,Desserts,Takeaway,2026-01-18 08:29:00
+O00220,C0007,Margherita Pizza,2.0,,Fast Food,Takeaway,2026-01-13 08:01:00
+O00174,C0244,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-03-10 07:49:00
+O00073,C0223,French Fries,1.0,80.0,Snacks,Delivery,2026-01-02 18:32:00
+O00289,C0021,Cheese Burger,1.0,160.0,Fast Food,Takeaway,2026-02-11 23:38:00
+O00111,C0148,Garlic Bread,4.0,90.0,Snacks,Delivery,2026-02-01 16:46:00
+O00071,C0206,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-01-04 23:02:00
+O00025,C0026,Burger,1.0,120.0,Fast Food,Dine-in,2026-01-14 22:33:00
+O00037,C0146,Lemonade,1.0,60.0,Beverages,Delivery,2026-01-02 18:08:00
+O00278,C0143,Lemonade,1.0,60.0,Beverages,Delivery,2026-03-05 12:10:00
+O00347,C0118,Pasta,1.0,180.0,Main Course,Takeaway,2026-03-11 13:13:00
+O00167,C0247,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-01-19 15:30:00
+O00218,C0085,French Fries,3.0,80.0,Snacks,Delivery,2026-03-22 10:11:00
+O00376,C0042,French Fries,1.0,80.0,Snacks,Delivery,2026-02-18 07:43:00
+O00027,C0085,Pizza,1.0,250.0,Fast Food,Delivery,2026-03-02 12:18:00
+O00075,C0095,French Fries,1.0,80.0,Snacks,Takeaway,2026-03-10 20:44:00
+O00317,C0144,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-03-20 14:40:00
+O00364,C0188,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-01-18 16:06:00
+O00198,C0184,Garlic Bread,3.0,90.0,Snacks,Delivery,2026-03-19 18:51:00
+O00234,C0157,Margherita Pizza,2.0,220.0,Fast Food,Dine-in,2026-01-30 18:43:00
+O00091,C0214,French Fries,1.0,80.0,Snacks,Delivery,2026-02-07 15:52:00
+O00156,C0012,Pizza,3.0,250.0,Fast Food,Takeaway,2026-01-23 16:53:00
+O00177,C0226,Coffee,1.0,80.0,Beverages,Dine-in,2026-01-15 19:23:00
+O00228,C0128,Burger,3.0,120.0,Fast Food,Delivery,2026-03-10 16:52:00
+O00325,C0193,Pizza,1.0,250.0,Fast Food,Delivery,2026-02-06 10:15:00
+O00377,C0054,Coffee,1.0,80.0,Beverages,Dine-in,2026-01-06 10:21:00
+O00062,C0040,Paneer Rice Bowl,3.0,190.0,Main Course,Dine-in,2026-01-07 07:03:00
+O00171,C0134,Garlic Bread,2.0,90.0,Snacks,Delivery,2026-03-15 12:18:00
+O00149,C0069,Brownie,1.0,110.0,Desserts,Delivery,2026-03-09 17:39:00
+O00363,C0178,Burger,1.0,120.0,Fast Food,Dine-in,2026-03-01 18:56:00
+O00158,C0155,Biryani,2.0,220.0,Main Course,Dine-in,2026-03-26 19:58:00
+O00151,C0024,Margherita Pizza,2.0,220.0,Fast Food,Dine-in,2026-03-24 20:56:00
+O00238,C0220,Burger,1.0,120.0,Fast Food,Takeaway,2026-03-30 13:07:00
+O00310,C0058,Biryani,1.0,220.0,Main Course,Delivery,2026-02-13 11:33:00
+O00021,C0065,Paneer Rice Bowl,1.0,190.0,Main Course,Takeaway,2026-01-08 13:06:00
+O00234,C0157,Brownie,2.0,110.0,Desserts,Dine-in,2026-01-30 18:43:00
+O00252,C0183,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-01-23 16:35:00
+O00122,C0203,Cold Drink,1.0,50.0,Beverages,Takeaway,2026-03-26 21:31:00
+O00416,C0239,Coffee,1.0,80.0,Beverages,Delivery,2026-02-22 18:13:00
+O00360,C0173,Margherita Pizza,1.0,220.0,Fast Food,Dine-in,2026-03-27 16:48:00
+O00312,C0116,Brownie,2.0,110.0,Desserts,Delivery,2026-03-26 19:21:00
+O00277,C0149,French Fries,1.0,80.0,Snacks,Delivery,2026-02-14 17:08:00
+O00166,C0130,Brownie,1.0,110.0,Desserts,Dine-in,2026-02-12 20:45:00
+O00291,C0019,Cold Drink,1.0,50.0,Beverages,Dine-in,2026-02-08 16:52:00
+O00137,C0073,Burger,3.0,120.0,Fast Food,Delivery,2026-03-09 08:12:00
+O00366,C0094,Sandwich,1.0,100.0,Snacks,Delivery,2026-03-27 22:16:00
+O00405,C0051,Ice Cream,3.0,90.0,Desserts,Dine-in,2026-02-16 16:10:00
+O00152,C0245,Ice Cream,1.0,90.0,Desserts,Takeaway,2026-03-28 16:33:00
+O00248,C0175,Brownie,3.0,110.0,Desserts,Dine-in,2026-03-05 16:34:00
+O00107,C0230,Coffee,1.0,80.0,Beverages,Takeaway,2026-01-18 08:29:00
+O00205,C0028,Ice Cream,2.0,90.0,Desserts,Dine-in,2026-03-24 12:05:00
+O00330,C0066,Brownie,2.0,110.0,Desserts,Takeaway,2026-02-02 17:08:00
+O00389,C0091,Cold Drink,3.0,50.0,Beverages,Delivery,2026-03-31 21:43:00
+O00372,C0104,Cold Drink,1.0,50.0,Beverages,Delivery,2026-01-24 09:42:00
+O00298,C0056,Garlic Bread,1.0,90.0,Snacks,Delivery,2026-01-04 13:07:00
+O00347,C0118,Sandwich,1.0,100.0,Snacks,Takeaway,2026-03-11 13:13:00
+O00276,C0080,Burger,2.0,120.0,Fast Food,Dine-in,2026-03-02 08:44:00
+O00207,C0022,Ice Cream,2.0,90.0,Desserts,Takeaway,2026-01-18 10:37:00
+O00258,C0125,Margherita Pizza,2.0,220.0,Fast Food,Takeaway,2026-03-15 16:47:00
+O00226,C0217,Pizza,1.0,250.0,Fast Food,Dine-in,2026-03-28 10:51:00
+O00206,C0089,Brownie,3.0,110.0,Desserts,Delivery,2026-02-01 13:37:00
+O00260,C0134,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-02-01 17:28:00
+O00389,C0091,Margherita Pizza,2.0,220.0,Fast Food,Delivery,2026-03-31 21:43:00
+O00354,C0240,Margherita Pizza,3.0,220.0,Fast Food,Delivery,2026-03-10 16:05:00
+O00353,C0191,Paneer Rice Bowl,1.0,190.0,Main Course,Delivery,2026-01-03 20:13:00
+O00384,C0009,Cheese Burger,1.0,160.0,Fast Food,Delivery,2026-03-28 17:31:00
+O00181,C0107,Sandwich,3.0,100.0,Snacks,Dine-in,2026-03-06 22:39:00
+O00290,C0163,Brownie,1.0,110.0,Desserts,Dine-in,2026-03-04 13:41:00
+O00373,C0037,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-01-12 18:33:00
+O00185,C0039,Garlic Bread,1.0,90.0,Snacks,Dine-in,2026-03-13 16:12:00
+O00183,C0108,Pasta,1.0,180.0,Main Course,Takeaway,2026-02-18 20:51:00
+O00343,C0014,Brownie,2.0,110.0,Desserts,Delivery,2026-01-28 14:50:00
+O00188,C0182,Margherita Pizza,4.0,220.0,Fast Food,Dine-in,2026-02-17 20:12:00
+O00193,C0100,Cold Drink,2.0,50.0,Beverages,Dine-in,2026-01-23 12:28:00
+O00136,C0184,French Fries,3.0,80.0,Snacks,Delivery,2026-02-26 20:47:00
+O00362,C0216,Biryani,1.0,220.0,Main Course,Dine-in,2026-02-04 22:45:00
+O00308,C0002,Pasta,1.0,180.0,Main Course,Delivery,2026-02-18 23:28:00
+O00052,C0196,Margherita Pizza,1.0,220.0,Fast Food,Takeaway,2026-03-25 20:19:00
+O00335,C0127,Burger,1.0,120.0,Fast Food,Dine-in,2026-03-27 18:08:00
